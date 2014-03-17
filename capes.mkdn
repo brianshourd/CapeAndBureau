@@ -17,6 +17,10 @@ can be played with just a handful of d6s. Character sheets fit easily on
 index cards, or you [can print the one that I've made
 up](charsheet.pdf).
 
+Full source can be [found on
+Github](https://github.com/brianshourd/CapesAndCowls/). Pull requests
+welcome!
+
 ## Players: Create Your Superhero
 
 For each of the following characteristics, pick one from the list (or

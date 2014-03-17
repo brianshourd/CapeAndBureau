@@ -1,0 +1,40 @@
+.centered {
+    text-align: left;
+}
+.unit > h4 {
+    font-weight: bold;
+}
+em {
+    font-weight: bold;
+}
+.container {
+    background-color: white;
+    padding: 30px;
+    border-radius: 25px;
+    moz-border-radius: 25px;
+}
+.grid {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.colored {
+    background-color: #CDC6D5;
+    border-radius: 25px;
+    moz-border-radius: 25px;
+}
+blockquote p {
+    color: #444444;
+}
+blockquote {
+    border-left: 0.5em solid #100023;
+    padding: 0 1em;
+}
+h3, h4 {
+    margin-top: 20px;
+}
+body {
+    background-color: #100023;
+}
+ol {
+    margin-bottom: 24px;
+}

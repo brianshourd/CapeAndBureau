@@ -1,0 +1,292 @@
+<link href="toast.css" rel="stylesheet"></link>
+<link href="markdown.css" rel="stylesheet"></link>
+<link href="style.css" rel="stylesheet"></link>
+
+<div class="container">
+# Capes and Cowls
+
+A superhero RPG by Brian Shourd, powered by John Harper's [Lasers and
+Feelings](http://onesevendesign.com/lasers_and_feelings_rpg.pdf) (check
+out his [One Seven Design Studio](http://www.onesevendesign.com/)).
+Licensed under a [CC BY-NC-SA 3.0
+License](http://creativecommons.org/licenses/by-nc-sa/3.0/us/).
+
+Designed for a handful of players and 1 game master (GM), to be played
+with little or no prep. Each character has only one stat, and the game
+can be played with just a handful of d6s.
+
+## Players: Create Your Superhero
+
+For each of the following characteristics, pick one from the list (or
+make one up) and mark it on your character sheet. When you are done,
+fill in the details in order to have a complete character with a
+backstory, personality, goals, a theme, etc.
+
+<div class="colored">
+<div class="grid">
+<div class="unit one-of-four centered">
+#### Power
+
+* Flight
+* Magic
+* Speed
+* Psionics
+* Gadgets
+* Strength
+* Acrobatics
+* Shapeshifting
+
+</div>
+<div class="unit one-of-four centered">
+#### Style
+
+* Defender
+* Trickster
+* Sneaker
+* Shooter
+* Brawler
+* Thinker
+* Leader
+* Healer
+
+</div>
+<div class="unit one-of-four centered">
+#### Origin
+
+* Alien
+* Mutant
+* Demigod
+* Construct
+* Chosen One
+* Volunteer
+* Lab Accident
+* Trauma Survivor
+
+</div>
+<div class="unit one-of-four centered">
+#### Motivation
+
+* Revenge
+* Justice
+* Freedom
+* Glory
+* or choose your own
+
+</div>
+<div class="unit one-of-four">
+#### Name
+
+Pick a really awesome superhero name.
+
+</div>
+<div class="unit one-of-two">
+#### Number
+
+Choose a number, from 2 to 5. A high number means you are a *cowl*, and
+good at: detective work, calm rationality, plots and plans (think
+Batman). A low number means you are a *cape*, and good at: intuition,
+diplomacy, wild and passionate action (think Superman).
+
+</div>
+<div class="unit one-of-four">
+#### Emblem
+
+Something that fits your name and powers. Draw it on your character
+sheet.
+
+</div>
+</div> <!-- grid -->
+</div> <!-- colored -->
+
+## Players: Create the Team
+
+Once everyone has created their character, together you should create
+your superhero team. Write this, and the names of all of the team
+members, on your character sheet.
+
+<div class="colored">
+<div class="grid">
+<div class="unit one-of-three">
+
+#### Team Name
+
+Every team needs a name, so that evildoers know whom to curse when their
+plans are foiled.
+
+</div>
+<div class="unit two-of-three">
+
+#### Bonds
+
+Every character should have a bond with one or two other characters on
+the team, something tying them together.
+
+> Examples: Brother and sister, In the war together, Used to date.
+
+</div>
+</div> <!-- grid -->
+</div> <!-- colored -->
+
+## Game Mechanics
+
+### Rolling the Dice
+
+When you do something risky, roll 1d6 to find out how it goes. Roll +1d
+if you’re *prepared* and +1d if you’re an *expert* (the GM tells you
+how many dice to roll, based on your character's power, style, origin,
+and the situation). *Roll your dice and compare each die result to your
+number.*
+
+<div class="colored">
+<div class="grid">
+<div class="unit one-of-two">
+
+#### Cowl (roll low)
+
+If you’re using your *cowl* (plans, reason), you want to roll *under*
+your number. Rolling under your number is a *success*.
+
+</div>
+<div class="unit one-of-two">
+
+#### Cape (roll high)
+
+If you’re using your *cape* (rapport, passion), you want to roll *over*
+your number. Rolling over your number is a *success*.
+
+</div>
+</div> <!-- grid -->
+</div> <!-- colored -->
+
+### Flash of Insight
+
+In either case, if you roll your number exactly, you have a *flash of
+insight*. You get a special insight into what’s going on. Ask the GM a
+question and they’ll answer you honestly. Some good questions:
+
+> What are they really feeling? Who’s behind this? How could I get them
+> to do X? What should I be on the lookout for? What’s the best way to
+> do Y?  What’s really going on here?
+
+You can change your action if you want to, then roll again.
+
+### Interpreting Results
+
+<div class="colored">
+<div class="grid">
+<div class="unit one-of-four">
+
+#### 0
+
+If none of your dice succeed, it goes wrong. The GM says how things get
+worse somehow.
+
+</div>
+<div class="unit one-of-four">
+
+#### 1
+
+If one die succeeds, you barely manage it. The GM inflicts a
+complication, harm, or cost.
+
+</div>
+<div class="unit one-of-four">
+
+#### 2
+
+If two dice succeed, you do it well. Good job!
+
+</div>
+<div class="unit one-of-four">
+
+#### 3
+
+If three dice succeed, you get a critical success!  The GM tells you
+some extra effect you get.
+
+</div>
+</div> <!-- grid -->
+</div> <!-- colored -->
+
+
+### Helping 
+
+If you want to help someone else who’s rolling, say how you try to help
+and make a roll. If you succeed, give them +1d.
+
+## GM: Create a Superhero Adventure
+
+Roll or choose on the tables below.
+
+<div class="colored">
+<div class="grid">
+<div class="unit one-of-two">
+
+#### A threat...
+
+1. The Mole People
+2. Alien Brain Worms
+3. Electrometus, Mage of Magnetism
+4. Berserk Robots
+5. Northern Bear Tamers
+6. The Ancient Society of Um'tach
+
+</div>
+<div class="unit one-of-two">
+
+#### wants to...
+
+1. Blow up
+2. Steal / Capture
+3. Bond with
+4. Protect / Empower
+5. Build / Synthesize
+6. Pacify / Occupy
+
+</div>
+<div class="unit one-of-two">
+
+#### the...
+
+1. President
+2. World's Satellites
+3. Team's Base
+4. Doomsday Machine
+5. Ancient Ruin
+6. Alien Artifact
+
+</div>
+<div class="unit one-of-two">
+
+#### which will...
+
+1. Destroy the world
+2. Reverse time
+3. Enslave humanity
+4. Start a war / invasion
+5. Make them rich
+6. Get rid of the heroes forever
+
+</div>
+</div> <!-- grid -->
+</div> <!-- colored -->
+
+
+## GM: Run the Game
+
+Play to find out how they defeat the threat. Introduce the threat by
+showing evidence of its recent badness. Before a threat does something
+to the characters, show signs that it’s about to happen, then ask them
+what they do. "Electrometus raises his hands, crackling with
+electricity. What do you do?" "Daneela pours you a glass of Um'tach
+whiskey and slips her arm around your waist. What do you do?"
+
+Call for a roll when the situation is uncertain. Don’t pre-plan
+outcomes, let the chips fall where they may. Use failures to push the
+action forward. The situation always changes after a roll, for good or
+ill.
+
+Ask questions and build on the answers. "Have any of you encountered a
+Bear Tamer before? Where? What happened?"
+
+</div> <!-- container -->

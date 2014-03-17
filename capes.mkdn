@@ -13,7 +13,9 @@ License](http://creativecommons.org/licenses/by-nc-sa/3.0/us/).
 
 Designed for a handful of players and 1 game master (GM), to be played
 with little or no prep. Each character has only one stat, and the game
-can be played with just a handful of d6s.
+can be played with just a handful of d6s. Character sheets fit easily on
+index cards, or you [can print the one that I've made
+up](charsheet.pdf).
 
 ## Players: Create Your Superhero
 

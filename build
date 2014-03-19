@@ -1,3 +1,3 @@
 #!/bin/bash
 
-pandoc capes.mkdn -f markdown -t html -s --template=template.html -o index.html
+pandoc capes.mkdn -f markdown -t html5 -s --template=template.html -o index.html

@@ -1,8 +1,3 @@
-<link href="toast.css" rel="stylesheet"></link>
-<link href="markdown.css" rel="stylesheet"></link>
-<link href="style.css" rel="stylesheet"></link>
-
-<div class="container">
 # Capes and Cowls
 
 A superhero RPG by Brian Shourd, powered by John Harper's [Lasers and
@@ -295,4 +290,3 @@ ill.
 Ask questions and build on the answers. "Have any of you encountered a
 Bear Tamer before? Where? What happened?"
 
-</div> <!-- container -->

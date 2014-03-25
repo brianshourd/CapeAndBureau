@@ -58,11 +58,11 @@ backstory, personality, goals, a theme, etc.
 * Alien
 * Mutant
 * Demigod
+* Mystical
+* Survivor
 * Construct
-* Chosen One
-* Volunteer
-* Lab Accident
-* Trauma Survivor
+* Paranormal
+* Scientific Marvel
 
 </div>
 <div class="unit one-of-four centered">
@@ -103,17 +103,39 @@ sheet.
 ## Players: Create the Team
 
 Once everyone has created their character, together you should create
-your superhero team. Write this, and the names of all of the team
-members, on your character sheet.
+your superhero team. Choose a *name*, *boon*, *bane*, and decide on some
+*bonds*. Write this, and the names of all of the team members, on your
+character sheet.
 
 <div class="colored">
 <div class="grid">
-<div class="unit one-of-three">
+<div class="unit two-of-three">
 
 #### Team Name
 
 Every team needs a name, so that evildoers know whom to curse when their
 plans are foiled.
+
+</div>
+<div class="unit one-of-three">
+
+#### Bane
+
+* Outlawed 
+* Infighting
+* Underfunded 
+* Bad Reputation 
+
+</div>
+<div class="unit one-of-three">
+
+#### Boon
+
+* Tight-knit 
+* Well-funded 
+* Global Reach 
+* Media Darlings
+* Government-backed 
 
 </div>
 <div class="unit two-of-three">

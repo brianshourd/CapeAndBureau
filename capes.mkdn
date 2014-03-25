@@ -11,7 +11,8 @@ Designed for a handful of players and 1 game master (GM), to be played
 with little or no prep. Each character has only one stat, and the game
 can be played with just a handful of d6s. Characters fit easily on index
 cards, or you [can print out these simple character
-sheets](charsheet.pdf).
+sheets](charsheet.pdf) (please note: due to recent rules updates the
+character sheets are no longer accurate - they will be fixed soon).
 
 Full source can be [found on
 Github](https://github.com/brianshourd/CapesAndCowls/). Pull requests
@@ -42,12 +43,12 @@ backstory, personality, goals, a theme, etc.
 <div class="unit one-of-four centered">
 #### Style
 
+* Controller
 * Defender
-* Trickster
 * Sneaker
-* Shooter
 * Brawler
 * Thinker
+* Blaster
 * Leader
 * Healer
 

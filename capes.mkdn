@@ -4,7 +4,8 @@ A superhero RPG by Brian Shourd, powered by John Harper's [Lasers and
 Feelings](http://onesevendesign.com/lasers_and_feelings_rpg.pdf) (check
 out his [One Seven Design Studio](http://www.onesevendesign.com/)).
 Licensed under a [CC BY-NC-SA 3.0
-License](http://creativecommons.org/licenses/by-nc-sa/3.0/us/).
+License](http://creativecommons.org/licenses/by-nc-sa/3.0/us/). Special
+thanks to Graham Starfelt and Auden Reiter for some great ideas.
 
 Designed for a handful of players and 1 game master (GM), to be played
 with little or no prep. Each character has only one stat, and the game
@@ -271,7 +272,6 @@ Roll or choose on the tables below.
 </div>
 </div> <!-- grid -->
 </div> <!-- colored -->
-
 
 ## GM: Run the Game
 

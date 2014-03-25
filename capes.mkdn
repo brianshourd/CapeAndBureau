@@ -1,12 +1,11 @@
-# Capes and Cowls
+# Capes and Cowls RPG
 
 A superhero RPG by Brian Shourd, powered by John Harper's [Lasers and
 Feelings](http://onesevendesign.com/lasers_and_feelings_rpg.pdf) (check
 out his [One Seven Design Studio](http://www.onesevendesign.com/)).
-Licensed under a [CC BY-NC-SA 3.0
-License](http://creativecommons.org/licenses/by-nc-sa/3.0/us/). Special
-thanks to Graham Starfelt, Auden Reiter, and rednightmare for some great
-ideas.
+Special thanks to Graham Starfelt, Auden Reiter, and rednightmare for
+some great ideas. Licensed under a [CC BY-NC-SA 3.0
+License](http://creativecommons.org/licenses/by-nc-sa/3.0/us/).
 
 Designed for a handful of players and 1 game master (GM), to be played
 with little or no prep. Each character has only one stat, and the game
@@ -19,7 +18,9 @@ Full source can be [found on
 Github](https://github.com/brianshourd/CapesAndCowls/). Pull requests
 welcome!
 
-## Players: Create Your Superhero
+## Setup
+
+### Players: Create Your Superhero
 
 For each of the following characteristics, pick one from the list (or
 make one up) and mark it on your character sheet. When you are done,
@@ -73,6 +74,7 @@ backstory, personality, goals, a theme, etc.
 * Revenge
 * Justice
 * Freedom
+* Fortune
 * Glory
 * or choose your own
 
@@ -102,16 +104,16 @@ sheet.
 </div> <!-- grid -->
 </div> <!-- colored -->
 
-## Players: Create the Team
+### Players: Create the Team
 
 Once everyone has created their character, together you should create
-your superhero team. Choose a *name*, *boon*, *bane*, and decide on some
-*bonds*. Write this, and the names of all of the team members, on your
-character sheet.
+your superhero team. Choose a *name*, a *boon*, and a *bane*. Write
+these, and the names of all of the team members, on your character
+sheet.
 
 <div class="colored">
 <div class="grid">
-<div class="unit two-of-three">
+<div class="unit one-of-three">
 
 #### Team Name
 
@@ -140,6 +142,7 @@ plans are foiled.
 * Government-backed 
 
 </div>
+<!--
 <div class="unit two-of-three">
 
 #### Bonds
@@ -150,10 +153,69 @@ the team, something tying them together.
 > Examples: Brother and sister, In the war together, Used to date.
 
 </div>
+-->
 </div> <!-- grid -->
 </div> <!-- colored -->
 
-## Game Mechanics
+### GM: Create a Superhero Adventure
+
+Roll or choose on the tables below. Don't tell the players - let it come
+out during play.
+
+<div class="colored">
+<div class="grid">
+<div class="unit one-of-two">
+
+#### A threat...
+
+1. The Mole People
+2. Alien Brain Worms
+3. Electrometus, Mage of Magnetism
+4. Berserk Robots
+5. Northern Bear Tamers
+6. The Ancient Society of Um'tach
+
+</div>
+<div class="unit one-of-two">
+
+#### wants to...
+
+1. Blow up
+2. Steal / Capture
+3. Bond with
+4. Protect / Empower
+5. Build / Synthesize
+6. Pacify / Occupy
+
+</div>
+<div class="unit one-of-two">
+
+#### the...
+
+1. President
+2. World's Satellites
+3. Team's Base
+4. Doomsday Machine
+5. Ancient Ruin
+6. Alien Artifact
+
+</div>
+<div class="unit one-of-two">
+
+#### which will...
+
+1. Destroy the world
+2. Reverse time
+3. Enslave humanity
+4. Start a war / invasion
+5. Make them rich
+6. Get rid of the heroes forever
+
+</div>
+</div> <!-- grid -->
+</div> <!-- colored -->
+
+## Playing the Game
 
 ### Rolling the Dice
 
@@ -234,70 +296,12 @@ some extra effect you get.
 </div> <!-- grid -->
 </div> <!-- colored -->
 
-
 ### Helping 
 
 If you want to help someone else who’s rolling, say how you try to help
 and make a roll. If you succeed, give them +1d.
 
-## GM: Create a Superhero Adventure
-
-Roll or choose on the tables below.
-
-<div class="colored">
-<div class="grid">
-<div class="unit one-of-two">
-
-#### A threat...
-
-1. The Mole People
-2. Alien Brain Worms
-3. Electrometus, Mage of Magnetism
-4. Berserk Robots
-5. Northern Bear Tamers
-6. The Ancient Society of Um'tach
-
-</div>
-<div class="unit one-of-two">
-
-#### wants to...
-
-1. Blow up
-2. Steal / Capture
-3. Bond with
-4. Protect / Empower
-5. Build / Synthesize
-6. Pacify / Occupy
-
-</div>
-<div class="unit one-of-two">
-
-#### the...
-
-1. President
-2. World's Satellites
-3. Team's Base
-4. Doomsday Machine
-5. Ancient Ruin
-6. Alien Artifact
-
-</div>
-<div class="unit one-of-two">
-
-#### which will...
-
-1. Destroy the world
-2. Reverse time
-3. Enslave humanity
-4. Start a war / invasion
-5. Make them rich
-6. Get rid of the heroes forever
-
-</div>
-</div> <!-- grid -->
-</div> <!-- colored -->
-
-## GM: Run the Game
+### GM: Run the Game
 
 Play to find out how they defeat the threat. Introduce the threat by
 showing evidence of its recent badness. Before a threat does something

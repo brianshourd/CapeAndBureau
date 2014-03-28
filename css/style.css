@@ -172,12 +172,12 @@ blockquote {
 a {
     color: #100023;
 }
+a:visited {
+    color: #230020;
+}
 a:hover {
     text-decoration: none;
     color: #999026;
-}
-a:visited {
-    color: #230020;
 }
 ol {
     margin-left: 24px;

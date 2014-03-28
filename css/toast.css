@@ -20,7 +20,7 @@
 /*-----------------------------------*\
 	$RESET
 \*-----------------------------------*/
-
+/*
 * {
 	margin: 0;
 	padding: 0;
@@ -29,6 +29,7 @@
 	   -moz-box-sizing: border-box;
 	        box-sizing: border-box;
 }
+*/
 
 /*-----------------------------------*\
 	$GRID
@@ -105,6 +106,7 @@
 	as necessary.
 \*-----------------------------------*/
 
+/*
 p, .p, ul, ol, hr, table, form, pre,
 h1, .alpha, h2, .beta {
 	margin-bottom: 30px;
@@ -136,6 +138,7 @@ hr {
 	border-bottom: 1px solid rgba(0,0,0,.1);
 	margin-top: -1px;
 }
+*/
 
 /*-----------------------------------*\
 	$MAIN

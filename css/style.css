@@ -1,6 +1,146 @@
-.centered {
-    text-align: left;
+/* From toast.css */
+.container {
+	/* Whatever you want. They’re your oats. */
+	max-width: 960px;
+	margin: 0 auto;
+	padding: 0 30px;
+	padding: 0 1.5rem;
 }
+
+.grid {
+	margin-left: -3%;
+	max-width: 105%;
+}
+
+.unit {
+	display: inline-block;
+	*display: inline;
+	*zoom: 1;
+	vertical-align: top;
+	margin-left: 3%;
+	margin-right: -.25em;
+	/* Clearfix */
+	overflow: hidden;
+	*overflow: visible;
+}
+
+	.unit.demo {
+		background-color: #fff8eb;
+		height: 48px;
+		height: 3rem;
+		margin-bottom: 24px;
+		margin-bottom: 1.5rem;
+	}
+
+.span-grid {
+	width: 97%;
+}
+
+.one-of-two { width: 47%; }
+
+.one-of-three { width: 30.36%; }
+.two-of-three { width: 63.666666666%; }
+
+.one-of-four { width: 22.05%; }
+.three-of-four { width: 72%; }
+
+.one-of-five { width: 17.07%; }
+.two-of-five { width: 37%; }
+.three-of-five { width: 57%; }
+.four-of-five { width: 77%; }
+
+/* End Toast.css stuff */
+/* From markdown.css */
+
+img {
+    padding: 5px;
+    clear: both;
+}
+body {
+    background-color: #100023;
+    margin: 0 auto;
+    font-family: Georgia, Palatino, serif;
+    color: #444444;
+    line-height: 1;
+    max-width: 960px;
+    padding: 30px;
+}
+h1, h2, h3, h4 {
+    color: #111111;
+    font-weight: 400;
+}
+h1, h2, h3, h4, h5, p {
+    margin-bottom: 24px;
+    padding: 0;
+}
+h1 {
+    font-size: 48px;
+}
+h2 {
+    font-size: 36px;
+}
+h3 {
+    font-size: 24px;
+}
+h4 {
+    font-size: 21px;
+}
+h5 {
+    font-size: 18px;
+}
+ul, ol {
+    padding: 0;
+    margin: 0;
+}
+li {
+    line-height: 24px;
+}
+li ul, li ul {
+    margin-left: 24px;
+}
+p, ul, ol {
+    font-size: 16px;
+    line-height: 24px;
+}
+pre {
+    padding: 0px 24px;
+    white-space: pre-wrap;
+}
+code {
+    font-family: Consolas, Monaco, Andale Mono, monospace;
+    line-height: 1.5;
+    font-size: 13px;
+}
+aside {
+    display: block;
+    float: right;
+}
+blockquote {
+    border-left:.5em solid #eee;
+    padding: 0 2em;
+    margin-left:0;
+}
+blockquote  cite {
+    font-size:14px;
+    line-height:20px;
+    color:#bfbfbf;
+}
+blockquote cite:before {
+    content: '\2014 \00A0';
+}
+
+blockquote p {  
+    color: #666;
+}
+hr {
+    text-align: left;
+    margin: 0 auto 0 0;
+    color: #999;
+}
+
+/* End markdown.css stuff */
+/* My own stuff */
+
 .unit > h4 {
     font-weight: bold;
 }
@@ -9,13 +149,13 @@ em {
 }
 .container {
     background-color: white;
-    padding: 30px;
+    padding: 5px 30px;
     border-radius: 25px;
     moz-border-radius: 25px;
 }
 .grid {
-    padding-left: 20px;
-    padding-right: 20px;
+    padding: 0px 20px 20px 20px;
+    margin-bottom: 20px;
 }
 .colored {
     background-color: #CDC6D5;
@@ -29,17 +169,40 @@ blockquote {
     border-left: 0.5em solid #100023;
     padding: 0 1em;
 }
-h3, h4 {
-    margin-top: 20px;
+a {
+    color: #100023;
 }
-body {
-    background-color: #100023;
+a:hover {
+    text-decoration: none;
+    color: #999026;
+}
+a:visited {
+    color: #230020;
 }
 ol {
-    margin-bottom: 24px;
     margin-left: 24px;
 }
 ul {
-    margin-bottom: 24px;
     list-style-type: none;
 }
+figure {
+    text-align: center;
+}
+
+/* More from toast.css */
+@media screen and (max-width: 650px) {
+	.grid {
+		margin-left: 0;
+		max-width: none;
+	}
+
+	.unit {
+		width: auto;
+		margin-left: 0;
+		display: block;
+	}
+	html {
+		font-size: 100%;
+	}
+}
+

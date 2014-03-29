@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="layout.svg"
-   inkscape:export-filename="/home/brian/Dropbox/Writing/CapesAndCowls/extra_media/layout.png"
+   inkscape:export-filename="/home/brian/Dropbox/Writing/CapesAndCowls/layout.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <defs
@@ -207,7 +207,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>

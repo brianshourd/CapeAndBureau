@@ -207,7 +207,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1342,17 +1342,17 @@
            x="635"
            y="70.714287" /></flowRegion><flowPara
          id="flowPara14066"
-         style="font-size:10px">Whenever your character tries to do something risky, roll 1d6 to find out how it goes. Roll +1d if you’re prepared and +1d if you’re an expert. The GM tells you how many dice to roll, based on your character's power, style, origin, and the situation. The GM will also tell you whether you are acting as a <flowSpan
+         style="font-size:10px">Whenever your character tries to do something risky, roll 1d6 to find out how it goes. Roll +1d if you’re prepared and +1d if you’re an expert. The GM tells you how many dice to roll, based on your character's power, style, origin, and the situation. The GM also has final say on whether you are acting as a <flowSpan
    style="font-weight:bold;-inkscape-font-specification:Georgia Bold"
    id="flowSpan7478">cape</flowSpan> or as a <flowSpan
    style="font-weight:bold;-inkscape-font-specification:Georgia Bold"
    id="flowSpan7480">cowl</flowSpan>. Roll your dice and compare each die result to your number.</flowPara><flowPara
          style="font-size:10px"
-         id="flowPara7482">Keep in mind that whether you are acting as a cape or a cowl is as much a feature of how your character tries to do things as it is the thing you are trying to do. So if you character is trying to find the villain's lair, that could be a cowl roll (if you are scouring police databases for clues), or a cape roll (if you are just trying his known locations).</flowPara><flowPara
-         id="flowPara14068"
-         style="font-size:10px" /><flowPara
+         id="flowPara3930">A convenient shortcut is to ask &quot;Is this something that Batman (resp.  Superman) would do?&quot; Ex: A villain has hostages and has demanded that the heroes come to the abandoned courthouse at 9:00. If you think that it is a trap and prepare an elaborate counter-trap, that's a cowl action. Is there an alternative action that is more cape-y?</flowPara><flowPara
          style="font-size:10px"
-         id="flowPara7484" /></flowRoot>    <g
+         id="flowPara3943" /><flowPara
+         style="font-size:10px"
+         id="flowPara3941" /></flowRoot>    <g
        id="g14306"
        transform="translate(-2,50)">
       <path

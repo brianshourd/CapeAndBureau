@@ -134,7 +134,7 @@ backstory, personality, goals, a theme, etc.
 
 <div class="colored">
 <div class="grid">
-<div class="unit one-of-four centered">
+<div class="unit one-of-four">
 #### Power
 
 * Flight
@@ -147,7 +147,7 @@ backstory, personality, goals, a theme, etc.
 * Shapeshifting
 
 </div>
-<div class="unit one-of-four centered">
+<div class="unit one-of-four">
 #### Style
 
 * Controller
@@ -160,7 +160,7 @@ backstory, personality, goals, a theme, etc.
 * Healer
 
 </div>
-<div class="unit one-of-four centered">
+<div class="unit one-of-four">
 #### Origin
 
 
@@ -174,7 +174,7 @@ backstory, personality, goals, a theme, etc.
 * Super-science
 
 </div>
-<div class="unit one-of-four centered">
+<div class="unit one-of-four">
 #### Motivation
 
 * Create your own or
@@ -330,16 +330,15 @@ up with an exciting and action-packed opening scene to throw at them.
 Whenever your character tries to do something risky, roll 1d6 to find
 out how it goes. Roll +1d if you’re *prepared* and +1d if you’re an
 *expert*. The GM tells you how many dice to roll, based on your
-character's power, style, origin, and the situation. The GM will also
-tell you whether you are acting as a *cape* or as a *cowl*. *Roll your
-dice and compare each die result to your number.*
+character's power, style, origin, and the situation. The GM also has
+final say on whether you are acting as a *cape* or as a *cowl*. *Roll
+your dice and compare each die result to your number.*
 
-Keep in mind that whether you are acting as a cape or a cowl is as much
-a feature of how your character tries to do things as it is the thing
-you are trying to do. So if you character is trying to find the
-villain's lair, that could be a cowl roll (if you are scouring police
-databases for clues), or a cape roll (if you are just trying his known
-locations).
+A convenient shortcut is to ask "Is this something that Batman (resp.
+Superman) would do?" Ex: A villain has hostages and has demanded that
+the heroes come to the abandoned courthouse at 9:00. If you think that
+it is a trap and prepare an elaborate counter-trap, that's a cowl
+action. Is there an alternative action that is more cape-y?
 
 <div class="colored">
 <div class="grid">

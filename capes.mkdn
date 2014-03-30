@@ -8,7 +8,7 @@ up to the challenge?
 
 Capes & Cowls RPG is a minimalist (the rules fit on a single page)
 superhero role-playing game written by Brian Shourd
-(brian.shourd@gmail.com), based on John Harper's [Lasers and
+([brianshourd.com](http://brianshourd.com)), based on John Harper's [Lasers and
 Feelings](http://onesevendesign.com/lasers_and_feelings_rpg.pdf).
 Designed for 2-6 players, 1 game master (GM), a handful of six-sided
 dice (d6), and little to no prep. Special thanks to Graham Starfelt,
@@ -16,6 +16,9 @@ Auden Reiter, and rednightmare for great ideas.
 
 *Never played an RPG before?* [Here are some things you may want to
 know](#what-is-an-rpg).
+
+If you have any comments, suggestions, critiques, or just want to get
+ahold of me for some reason, email me at brian.shourd@gmail.com.
 
 ## Get the Rules
 
@@ -57,27 +60,26 @@ Full source can be found on Github. Pull requests welcome!
 
 ## Special Bifold Character Sheets
 
-Some things that I find difficult in one-shot games (games like this one
-are best played as a single session or two, as opposed to a long-running
-campaign) are
+A couple of things that I find difficult in one-shot games (games like
+this one are best played as a single session or two, as opposed to a
+long-running campaign) are
 
 1. Understanding the other players' characters
 2. Remembering the essential rules
-3. Getting into my character
 
 This character sheet is designed to help with that. There
 are two character sheets on a page, so first cut the page in half. Now
 each character sheet has some dotted lines. Fold on these dotted lines
 to get something that looks like this:
 
-![A picture of the folded character sheet](http://lorempixel.com/640/400)
+![A picture of the folded character sheet](images/charsheets_folded.jpg)
 
 Hooray! This acts kind of like a mini GM screen for all the players. It
 displays relevant information to the other players (like your name,
-icon, and powers), but keeps personal information to yourself (like your
-number, motivation, and other notes). It also has a handy-dandy cheat
-sheet of rules on the back of the fold, so you can remember how many
-dice to roll and how to interpret them.
+emblem, and powers), but keeps personal information to yourself (like
+your number, motivation, and other notes). It also has a handy-dandy
+cheat sheet of rules on the back of the fold, so you can remember how
+many dice to roll and how to interpret them.
 
 ---
 

@@ -187,7 +187,6 @@ backstory, personality, goals, a theme, etc.
 <div class="unit one-of-four">
 #### Origin
 
-
 * Alien
 * Mutant
 * Demigod
@@ -239,7 +238,7 @@ sheet.
 ### Players: Create the Team
 
 Once everyone has created their character, together you should create
-your superhero team. Choose a *name*, a *boon*, and a *bane*. Write
+your superhero team. Choose a *name*, a *bane*, and a *boon*. Write
 these, and the names of all of the team members, on your character
 sheet.
 
@@ -292,7 +291,7 @@ the team, something tying them together.
 
 Roll or choose on the tables below. Don't tell the players - let it come
 out during play. While they are busy creating their team of heroes, come
-up with an exciting and action-packed opening scene to throw at them.
+up with a relevant and action-packed opening scene to throw at them.
 
 <div class="colored">
 <div class="grid">
@@ -446,8 +445,8 @@ Play to find out how they defeat the threat. Introduce the threat by
 showing evidence of its recent badness. Before a threat does something
 to the characters, show signs that it’s about to happen, then ask them
 what they do. "Electrometus raises his hands, crackling with
-electricity. What do you do?" "Daneela pours you a glass of Um'tach
-whiskey and slips her arm around your waist. What do you do?"
+electricity. What do you do?" "The horrific worm is poised on the
+guardian's shoulder. What do you do?"
 
 Let the heroes use their team's boon to their advantage sometimes, and
 introduce complications because of their bane.

@@ -28,13 +28,13 @@ The complete PDF is a three page PDF that contains
 
 1. The single sheet of rules
 2. Special bifold character sheets
-3. These instructions
+3. Some instructions on using the character sheets
 
 You'll probably want to print out one copy of the first page, 2-3 copies
-of the second page, and you probably won't want to print the fourth page
+of the second page, and you probably won't want to print the third page
 at all.
 
-or convenience, you can just download the rules and/or the character
+For convenience, you can just download the rules and/or the character
 sheets as single-page-pdfs below.
 
 ### [Just the rules](capes_and_cowls_rpg.pdf)

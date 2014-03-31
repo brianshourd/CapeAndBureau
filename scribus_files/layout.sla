@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.4.3.svn">
+    <DOCUMENT ANZPAGES="1" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="20" BORDERRIGHT="20" BORDERTOP="20" BORDERBOTTOM="20" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="Letter" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="0" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="20" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="5" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPMo="CineonLog M " DPPr="Fogra27L CMYK Coated Press" DPIn="CineonLog M " DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="CineonLog M " DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="English" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" MINGRID="20" MAJGRID="100" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWControl="0" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.707106781186548" POLYR="0" POLYCUR="0" POLYFD="0" POLYS="0" AutoSave="1" AutoSaveTime="600000" ScratchBottom="20" ScratchLeft="100" ScratchRight="100" ScratchTop="20" GapHorizontal="0" GapVertical="40" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" MAGMIN="10" MAGMAX="3200" MAGSTEP="200" CPICT="None" PICTSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10" dispY="10" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" GuideZ="10" BACKG="1" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <COLOR NAME="Black" CMYK="#000000ff" Spot="0" Register="0"/>
+        <COLOR NAME="Blue" RGB="#0000ff" Spot="0" Register="0"/>
+        <COLOR NAME="Cool Black" CMYK="#990000ff" Spot="0" Register="0"/>
+        <COLOR NAME="Cyan" CMYK="#ff000000" Spot="0" Register="0"/>
+        <COLOR NAME="FromEPS#000000" RGB="#000000" Spot="0" Register="0"/>
+        <COLOR NAME="FromEPS#ffffff" RGB="#ffffff" Spot="0" Register="0"/>
+        <COLOR NAME="Green" RGB="#00ff00" Spot="0" Register="0"/>
+        <COLOR NAME="Magenta" CMYK="#00ff0000" Spot="0" Register="0"/>
+        <COLOR NAME="Red" RGB="#ff0000" Spot="0" Register="0"/>
+        <COLOR NAME="Registration" CMYK="#ffffffff" Spot="0" Register="1"/>
+        <COLOR NAME="Rich Black" CMYK="#996666ff" Spot="0" Register="0"/>
+        <COLOR NAME="Warm Black" CMYK="#00994cff" Spot="0" Register="0"/>
+        <COLOR NAME="White" CMYK="#00000000" Spot="0" Register="0"/>
+        <COLOR NAME="Yellow" CMYK="#0000ff00" Spot="0" Register="0"/>
+        <HYPHEN/>
+        <STYLE NAME="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" FONT="Lora Regular" FONTSIZE="10"/>
+        <STYLE NAME="Lora Paragraph" ALIGN="3" LINESPMode="0" LINESP="12" VOR="0" NACH="0" DROP="0" DROPLIN="2" FONTSIZE="10"/>
+        <STYLE NAME="Arvo Paragraph" PARENT="Arvo Paragraph" ALIGN="0" LINESPMode="0" LINESP="12" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" FONT="Arvo Regular" FONTSIZE="10"/>
+        <STYLE NAME="Paragraph Header" LINESPMode="0" LINESP="14.4" VOR="4" NACH="2" FONT="Arvo Bold" FONTSIZE="12" FEATURES="smallcaps" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1"/>
+        <STYLE NAME="Role-Playing Game" ALIGN="2" LINESPMode="0" LINESP="22" FONT="Lora Regular" FONTSIZE="27" FEATURES="allcaps" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="104" SCALEV="75" KERN="-3" LANGUAGE="English"/>
+        <STYLE NAME="Capes &amp;" LINESPMode="0" FONT="Lora Regular" FONTSIZE="72" FEATURES="allcaps" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEV="110" BASEO="0" KERN="3" LANGUAGE="English"/>
+        <STYLE NAME="Cowls" LINESPMode="0" LINESP="72" FONT="Lora Regular" FONTSIZE="89" FEATURES="allcaps" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEV="110" KERN="-4" LANGUAGE="English"/>
+        <STYLE NAME="RPG" FONT="Arvo Bold" FONTSIZE="67" KERN="-9" LANGUAGE="English"/>
+        <STYLE NAME="Section Header" LINESPMode="0" LINESP="14.4" VOR="0" NACH="0" FONT="Arvo Bold" FONTSIZE="16" FEATURES="smallcaps" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" BASEO="-25"/>
+        <CHARSTYLE CNAME="Default Character Style" FONT="Arial Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="0" useColor="0" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="0" PSLevel="0" PDLanguage="0" markOffset="1.70191697094598e+214" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="CineonLog M " ImageP="CineonLog M " PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
+            <Fonts Name="Arvo Bold"/>
+            <Fonts Name="Arvo Regular"/>
+            <Fonts Name="Lora Bold"/>
+            <Fonts Name="Lora Regular"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <LPI Color="" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Double Sided" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="0" Type="Type_1_2_3" Start="1" Reversed="0" Active="1"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="20" BORDERRIGHT="20" BORDERTOP="20" BORDERBOTTOM="20" NUM="0" NAM="Normal" MNAM="" Size="Letter" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="20" BORDERRIGHT="20" BORDERTOP="20" BORDERBOTTOM="20" NUM="0" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="417" YPOS="176" WIDTH="275" HEIGHT="616" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="3" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="1" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 275 0 275 0 275 0 275 0 275 616 275 616 275 616 275 616 0 616 0 616 0 616 0 616 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 275 0 275 0 275 0 275 0 275 616 275 616 275 616 275 616 0 616 0 616 0 616 0 616 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Play The Game"/>
+            <para PARENT="Section Header"/>
+            <ITEXT CH="Rolling the Dice"/>
+            <para PARENT="Paragraph Header"/>
+            <ITEXT FONT="Lora Regular" FONTSIZE="10" CH="Whenever your character tries to do something risky, roll 1d6 to find out how it goes. Roll +1d if you’re prepared and +1d if you’re an expert. The GM tells you how many dice to roll, based on your character, your action, and the situation. The GM also has final say on whether you are acting as a cape or as a cowl. Roll your dice and compare each die result to your number."/>
+            <para PARENT="Lora Paragraph"/>
+            <ITEXT FONT="Arvo Bold" FONTSIZE="10" FEATURES="inherit smallcaps" CH="Cowl (roll low)"/>
+            <ITEXT FONT="Lora Regular" FONTSIZE="10" CH=": If you’re using your cowl (plans, reason, detecting), you want to roll under your number. Rolling under your number is a success."/>
+            <para PARENT="Lora Paragraph"/>
+            <ITEXT FONT="Arvo Bold" FONTSIZE="10" FEATURES="inherit smallcaps" CH="Cape (roll high)"/>
+            <ITEXT CH=":"/>
+            <ITEXT FONT="Lora Regular" FONTSIZE="10" CH=" If you’re using your cape (rapport, passion, intuition), you want to roll over your number. Rolling over your number is a success."/>
+            <para PARENT="Lora Paragraph"/>
+            <ITEXT FONT="Arvo Bold" FONTSIZE="10" FEATURES="inherit smallcaps" CH="Flash of Insight"/>
+            <ITEXT FONT="Lora Regular" FONTSIZE="10" CH=": If you roll your number exactly, you have a flash of insight. You get to ask the GM a question that they’ll answer  honestly. Examples: What are they really feeling? Who’s behind this? How could I get them to do X? What’s the best way to do Y? What’s really going on here? You can change your action if you want to, then roll again."/>
+            <para PARENT="Lora Paragraph"/>
+            <ITEXT FONT="Arvo Bold" FEATURES="inherit smallcaps" CH="Interpreting Results"/>
+            <para PARENT="Lora Paragraph"/>
+            <ITEXT FONT="Arvo Bold" FONTSIZE="10" FEATURES="inherit smallcaps" CH="0"/>
+            <ITEXT FONT="Lora Regular" FONTSIZE="10" CH=": If none of your dice succeed, it goes wrong. The GM says how things get worse somehow."/>
+            <para PARENT="Lora Paragraph"/>
+            <ITEXT FONT="Arvo Bold" FONTSIZE="10" FEATURES="inherit smallcaps" CH="1"/>
+            <ITEXT FONT="Lora Regular" FONTSIZE="10" CH=": If one die succeeds, you barely manage it. The GM inflicts a complication, harm, or cost."/>
+            <para PARENT="Lora Paragraph"/>
+            <ITEXT FONT="Arvo Bold" FONTSIZE="10" FEATURES="inherit smallcaps" CH="2"/>
+            <ITEXT FONT="Lora Regular" FONTSIZE="10" CH=": If two dice succeed, you do it well. Good job!"/>
+            <para PARENT="Lora Paragraph"/>
+            <ITEXT FONT="Arvo Bold" FONTSIZE="10" FEATURES="inherit smallcaps" CH="3"/>
+            <ITEXT FONT="Lora Regular" FONTSIZE="10" CH=": If three dice succeed, you get a critical success! The GM tells you some extra effect you get."/>
+            <para PARENT="Lora Paragraph"/>
+            <ITEXT FONT="Arvo Bold" FONTSIZE="10" FEATURES="inherit smallcaps" CH="Helping"/>
+            <ITEXT FONT="Lora Regular" FONTSIZE="10" CH=": If you want to help someone else who’s rolling, say how you try to help and make a roll. If you succeed, give them +1d."/>
+            <para PARENT="Lora Paragraph"/>
+            <ITEXT CH="GM: Run the Game"/>
+            <para PARENT="Paragraph Header"/>
+            <ITEXT FONT="Lora Regular" FONTSIZE="10" CH="Play to find out how they defeat the threat. Introduce the threat by showing evidence of its recent badness. Before a threat does something to the characters, show signs that it’s about to happen, then ask them what they do. &quot;Electrometus raises his hands, crackling with electricity. What do you do?&quot; &quot;The horrific worm is poised on the guardian's shoulder. What do you do?&quot;"/>
+            <para PARENT="Lora Paragraph"/>
+            <ITEXT FONT="Lora Regular" FONTSIZE="10" CH="Let the players use their team's boon to their advantage sometimes. Introduce complications because of their bane."/>
+            <para PARENT="Lora Paragraph"/>
+            <ITEXT FONT="Lora Regular" FONTSIZE="10" CH="Call for a roll when the situation is uncertain. Don’t pre-plan outcomes, and use failures to push the action forward. The situation always changes after a roll, for good or ill."/>
+            <para PARENT="Lora Paragraph"/>
+            <ITEXT FONT="Lora Regular" FONTSIZE="10" CH="Ask questions and build on the answers. &quot;Have any of you encountered a Bear Tamer before? Where? What happened?&quot;"/>
+            <para PARENT="Lora Paragraph"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="120" YPOS="176" WIDTH="287" HEIGHT="616" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 287 0 287 0 287 0 287 0 287 616 287 616 287 616 287 616 0 616 0 616 0 616 0 616 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 287 0 287 0 287 0 287 0 287 616 287 616 287 616 287 616 0 616 0 616 0 616 0 616 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FEATURES="inherit smallcaps" CH="The world is in peril"/>
+            <ITEXT CH=" and your team is the only thing that stands between evil and innocence. Everything rests on your shoulders. Are you up to the challenge?"/>
+            <para PARENT="Lora Paragraph" LINESPMode="0" LINESP="13"/>
+            <ITEXT CH="Setup"/>
+            <para PARENT="Section Header"/>
+            <ITEXT CH="Players: Create Your Superhero"/>
+            <para PARENT="Paragraph Header"/>
+            <ITEXT FONT="Lora Regular" FONTSIZE="10" CH="For each of the following characteristics, pick one from the list and mark it on your character sheet. When you are done, fill in some details in order to have a complete character with a backstory, personality, goals, a theme, etc."/>
+            <para PARENT="Lora Paragraph"/>
+            <ITEXT FONT="Arvo Bold" FEATURES="inherit smallcaps" CH="Power"/>
+            <ITEXT CH=": Flight, Magic, Speed, Psionics, Gadgets, Strength, Acrobatics, Shapeshifting"/>
+            <para PARENT="Lora Paragraph"/>
+            <ITEXT FONT="Arvo Bold" FEATURES="inherit smallcaps" CH="Style"/>
+            <ITEXT CH=": Controller, Defender, Sneaker, Brawler, Thinker, Blaster, Leader, Healer"/>
+            <para PARENT="Lora Paragraph" ALIGN="3"/>
+            <ITEXT FONT="Arvo Bold" FEATURES="inherit smallcaps" CH="Origin"/>
+            <ITEXT CH=": Alien, Mutant, Demigod, Mystical, Survivor, Construct, Paranormal, Super-science"/>
+            <para PARENT="Lora Paragraph" ALIGN="3"/>
+            <ITEXT FONT="Arvo Bold" FEATURES="inherit smallcaps" CH="Motivation"/>
+            <ITEXT CH=": Freedom, Revenge, Religion, Fortune, Justice, Glory, Love, or create your own"/>
+            <para PARENT="Lora Paragraph" ALIGN="3"/>
+            <ITEXT FONT="Arvo Bold" FONTSIZE="10" FEATURES="inherit smallcaps" CH="N"/>
+            <ITEXT FONT="Arvo Bold" FEATURES="inherit smallcaps" CH="ame"/>
+            <ITEXT CH=": "/>
+            <ITEXT FONT="Lora Regular" FONTSIZE="10" CH="Pick a really awesome superhero name."/>
+            <para PARENT="Lora Paragraph" ALIGN="3"/>
+            <ITEXT FONT="Arvo Bold" FONTSIZE="10" FEATURES="inherit smallcaps" CH="N"/>
+            <ITEXT FONT="Arvo Bold" FEATURES="inherit smallcaps" CH="umber"/>
+            <ITEXT CH=": "/>
+            <ITEXT FONT="Lora Regular" FONTSIZE="10" CH="Choose a number, from 2 to 5. A high number means you are a cowl, and good at: detective work, calm rationality, plots and plans (think Batman). A low number means you are a cape, and good at: intuition, diplomacy, wild and passionate action (think Superman)."/>
+            <para PARENT="Lora Paragraph" ALIGN="3"/>
+            <ITEXT FONT="Arvo Bold" FONTSIZE="10" FEATURES="inherit smallcaps" CH="E"/>
+            <ITEXT FONT="Arvo Bold" FEATURES="inherit smallcaps" CH="mblem"/>
+            <ITEXT CH=": "/>
+            <ITEXT FONT="Lora Regular" FONTSIZE="10" CH="Something that fits your name and powers. Draw it on your character sheet."/>
+            <para PARENT="Lora Paragraph"/>
+            <ITEXT CH="Players: Create the Team"/>
+            <para PARENT="Paragraph Header"/>
+            <ITEXT FONT="Lora Regular" FONTSIZE="10" CH="Once everyone has created their character, collabortively create your superhero team. Choose a name, a bane, and a boon."/>
+            <para PARENT="Lora Paragraph"/>
+            <ITEXT FONT="Arvo Bold" FONTSIZE="10" FEATURES="inherit smallcaps" CH="Team Name"/>
+            <ITEXT FONT="Lora Regular" FONTSIZE="10" CH=": What name shall evildoers curse when their plans are foiled"/>
+            <ITEXT CH="?"/>
+            <para PARENT="Lora Paragraph"/>
+            <ITEXT FONT="Arvo Bold" FONTSIZE="10" FEATURES="inherit smallcaps" CH="Bane"/>
+            <ITEXT FONT="Lora Regular" FONTSIZE="10" CH=": Outlawed, Infighting, Underfunded, Bad Reputation"/>
+            <para PARENT="Lora Paragraph"/>
+            <ITEXT FONT="Arvo Bold" FONTSIZE="10" FEATURES="inherit smallcaps" SCALEH="95" CH="Boon"/>
+            <ITEXT FONT="Lora Regular" FONTSIZE="10" SCALEH="95" CH=": Government-backed, Good Press, Well Funded, Tight-knit"/>
+            <para PARENT="Lora Paragraph"/>
+            <ITEXT CH="GM: Create a Superhero Adventure"/>
+            <para PARENT="Paragraph Header"/>
+            <ITEXT FONT="Lora Regular" FONTSIZE="10" CH="Roll randomly or choose from the options below. Don't tell the players - let it come out during play. While they are busy creating their team, come up with a relevant and action-packed opening scene to throw at them."/>
+            <para PARENT="Lora Paragraph"/>
+            <ITEXT FONT="Arvo Bold" FEATURES="inherit smallcaps" CH="A threat..."/>
+            <ITEXT CH="  1. Electrometus: Mage of Magnetism, 2. The Ancients of Um'tach, 3. Northern Bear Tamers, 4. Alien Brain Worms, 5. The Mole People, 6. Berserk Robots"/>
+            <para PARENT="Lora Paragraph"/>
+            <ITEXT FONT="Arvo Bold" FEATURES="inherit smallcaps" CH="wants to..."/>
+            <ITEXT CH="  1. Blow up, 2. Bond with, 3. Steal / Capture, 4. Pacify / Occupy, 5. Protect / Empower, 6. Build / Synthesize"/>
+            <para PARENT="Lora Paragraph"/>
+            <ITEXT FONT="Arvo Bold" FEATURES="inherit smallcaps" CH="the..."/>
+            <ITEXT CH="  1. Doomsday Machine, 2. World's Satellites, 3. Alien Artifact, 4. Ancient Ruin, 5. Team's Base, 6. President"/>
+            <para PARENT="Lora Paragraph"/>
+            <ITEXT FONT="Arvo Bold" FEATURES="inherit smallcaps" CH="which will..."/>
+            <ITEXT CH="  1. Start a war, 2. Reverse time, 3. Make them rich, 4. Enslave humanity, 5. Destroy the world, 6. Destroy the heroes"/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="6" XPOS="418" YPOS="294.5" WIDTH="24" HEIGHT="29.5" RADRECT="0" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="3" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="1" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="28" POCOOR="0 14.75 0 14.75 12 29.5 12 29.5 12 29.5 12 29.5 24 14.75 24 14.75 24 14.75 24 14.75 18 14.75 18 14.75 18 14.75 18 14.75 18 0 18 0 18 0 18 0 6 0 6 0 6 0 6 0 6 14.75 6 14.75 6 14.75 6 14.75 0 14.75 0 14.75 " NUMCO="16" COCOOR="-2 0 -2 0 30 0 30 0 30 0 30 0 30 30 30 30 30 30 30 30 -2 30 -2 30 -2 30 -2 30 -2 0 -2 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="6" XPOS="418" YPOS="331.5" WIDTH="24" HEIGHT="29.5" RADRECT="0" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="3" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="1" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="28" POCOOR="0 14.75 0 14.75 12 0 12 0 12 0 12 0 24 14.75 24 14.75 24 14.75 24 14.75 18 14.75 18 14.75 18 14.75 18 14.75 18 29.5 18 29.5 18 29.5 18 29.5 6 29.5 6 29.5 6 29.5 6 29.5 6 14.75 6 14.75 6 14.75 6 14.75 0 14.75 0 14.75 " NUMCO="16" COCOOR="-2 0 -2 0 30 0 30 0 30 0 30 0 30 30 30 30 30 30 30 30 -2 30 -2 30 -2 30 -2 30 -2 0 -2 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="120" YPOS="40" WIDTH="368" HEIGHT="160" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 368 0 368 0 368 0 368 0 368 160 368 160 368 160 368 160 0 160 0 160 0 160 0 160 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 368 0 368 0 368 0 368 0 368 160 368 160 368 160 368 160 0 160 0 160 0 160 0 160 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Capes &amp;"/>
+            <para PARENT="Capes &amp;"/>
+            <ITEXT CH="Cowls"/>
+            <para PARENT="Cowls"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="488.88" YPOS="40" WIDTH="203.5" HEIGHT="132.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="3" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="1" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 203.5 0 203.5 0 203.5 0 203.5 0 203.5 132.5 203.5 132.5 203.5 132.5 203.5 132.5 0 132.5 0 132.5 0 132.5 0 132.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 203.5 0 203.5 0 203.5 0 203.5 0 203.5 132.5 203.5 132.5 203.5 132.5 203.5 132.5 0 132.5 0 132.5 0 132.5 0 132.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Arvo Bold" FEATURES="inherit smallcaps" CH="By"/>
+            <ITEXT CH=": Brian Shourd, brian.shourd@gmail.com"/>
+            <para PARENT="Lora Paragraph" ALIGN="0"/>
+            <ITEXT FONT="Arvo Bold" FEATURES="inherit smallcaps" CH="Based On"/>
+            <ITEXT CH=": John Harper's Lasers and Feelings, onesevendesign.com/"/>
+            <para PARENT="Lora Paragraph" ALIGN="0"/>
+            <ITEXT CH="lasers_and_feelings_rpg.pdf"/>
+            <para PARENT="Lora Paragraph" ALIGN="0"/>
+            <ITEXT FONT="Arvo Bold" FEATURES="inherit smallcaps" CH="Thanks"/>
+            <ITEXT CH=": Graham Starfelt, Auden Reiter, and rednightmare"/>
+            <para PARENT="Lora Paragraph" ALIGN="0"/>
+            <ITEXT FONT="Arvo Bold" FONTSIZE="10" FEATURES="inherit smallcaps" CH="License"/>
+            <ITEXT FONT="Lora Regular" FONTSIZE="10" CH=": CC-BY-NC-SA 3.0, creativecommons.org/licenses/by-nc-sa/3.0/us/"/>
+            <para PARENT="Lora Paragraph" ALIGN="0"/>
+            <ITEXT FONT="Arvo Bold" FEATURES="inherit smallcaps" CH="More Info"/>
+            <ITEXT CH=": For character sheets and more information, visit brianshourd.com/capes"/>
+            <trail ALIGN="0"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="481.755" YPOS="37" WIDTH="215.875" HEIGHT="115.25" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="-270" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 215.875 0 215.875 0 215.875 0 215.875 0 215.875 115.25 215.875 115.25 215.875 115.25 215.875 115.25 0 115.25 0 115.25 0 115.25 0 115.25 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 215.875 0 215.875 0 215.875 0 215.875 0 215.875 115.25 215.875 115.25 215.875 115.25 215.875 115.25 0 115.25 0 115.25 0 115.25 0 115.25 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="RPG"/>
+            <trail PARENT="RPG"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>

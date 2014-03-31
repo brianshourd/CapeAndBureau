@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="990"
-   height="765"
+   width="765"
+   height="990"
    id="svg13555"
    version="1.1"
    inkscape:version="0.48.4 r9939"
@@ -27,12 +27,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="428.05252"
-     inkscape:cy="598.34348"
+     inkscape:zoom="0.7"
+     inkscape:cx="173.07615"
+     inkscape:cy="513.18619"
      inkscape:document-units="pt"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      units="pt"
      inkscape:window-width="1440"
      inkscape:window-height="875"
@@ -58,7 +58,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -66,9 +66,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-287.36218)">
+     transform="translate(0,-62.36218)">
     <g
-       id="g13748">
+       id="g13748"
+       transform="matrix(0,-0.96333728,0.96333793,0,-263.07697,1034.2142)">
       <path
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
@@ -375,7 +376,7 @@
            sodipodi:role="line">NUMBER</tspan></text>
     </g>
     <g
-       transform="translate(495.00009,2.14035e-6)"
+       transform="matrix(0,-0.96333728,0.96333793,0,-263.07696,557.36211)"
        id="g13748-9">
       <path
          sodipodi:nodetypes="ccccc"
@@ -683,7 +684,7 @@
            sodipodi:role="line">NUMBER</tspan></text>
     </g>
     <g
-       transform="translate(0,-3.0940246e-6)"
+       transform="matrix(0,-0.96333728,0.96333793,0,-263.07697,1034.2142)"
        id="g7956">
       <rect
          style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.49999905;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:2.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -778,7 +779,7 @@
    id="flowSpan7812"
    style="font-weight:bold;line-height:121.00000381%;-inkscape-font-specification:Georgia Bold">Helping</flowSpan>: If you want to help someone else with their roll, say how you try to help and make a roll. If you succeed, give them +1d.</flowPara></flowRoot>    </g>
     <g
-       transform="translate(495,-2.1403503e-6)"
+       transform="matrix(0,-0.96333728,0.96333793,0,-263.07697,557.3622)"
        id="g7956-6">
       <rect
          style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.49999905;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:2.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -875,7 +876,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path11369-5"
-       d="m 494.99946,1051.7368 0,-763.74892"
-       style="fill:none;stroke:#000000;stroke-width:1.25125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.5025,1.25125;stroke-dashoffset:1.25125" />
+       d="m 750.10106,557.36272 -735.748372,0"
+       style="fill:none;stroke:#000000;stroke-width:1.20537615;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.41075236, 1.20537618;stroke-dashoffset:1.20537618" />
   </g>
 </svg>

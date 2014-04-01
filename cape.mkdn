@@ -1,8 +1,8 @@
 # Cape and Bureau RPG
 
-THE WORLD IS IN PERIL and your team of superheroes is the only thing
-that stands between evil and innocence. Everything rests on your
-shoulders. Are you up to the challenge?
+THE WORLD IS IN PERIL. The Bureau of Civic Protection maintains an elite
+team of metahumans for just such an event. Your team. Can you save the
+world before it's too late?
 
 ## About
 
@@ -208,16 +208,16 @@ backstory, personality, goals, a theme, etc.
 <div class="unit one-of-four">
 #### Name
 
-Pick a really awesome superhero name.
+Pick a superhero name, your Bureau moniker.
 
 </div>
 <div class="unit one-of-two">
 #### Number
 
-Choose a number, from 2 to 5. A low number means you are a *cape*, and
-good at: intuition, diplomacy, wild and passionate action (think
-Superman). A high number means you are an *agent*, and good at:
-detective work, calm rationality, plots and plans (think Batman). 
+Choose a number, from 2 to 5. A low number means you act like a *cape*,
+and are good at: intuition, diplomacy, wild and passionate action. A
+high number means you act like an *agent*, and are good at: detective
+work, calm rationality, plots and plans. 
 
 </div>
 <div class="unit one-of-four">
@@ -233,9 +233,8 @@ sheet.
 ### Players: Create the Team
 
 Once everyone has created their character, together you should create
-your superhero team. Choose a *name*, a *bane*, and a *boon*. Write
-these, and the names of all of the team members, on your character
-sheet.
+your superhero team. Choose a *team name*, a *bane*, and a *boon*, and
+write them on your character sheet.
 
 <div class="colored">
 <div class="grid">
@@ -261,7 +260,7 @@ plans are foiled.
 
 #### Boon
 
-* Government-backed 
+* Bureau Favorites
 * Good Press
 * Well Funded 
 * Tight-knit 
@@ -284,9 +283,10 @@ the team, something tying them together.
 
 ### GM: Create a Superhero Adventure
 
-Roll or choose on the tables below. Don't tell the players - let it come
-out during play. While they are busy creating their team of heroes, come
-up with a relevant and action-packed opening scene to throw at them.
+Roll randomly or choose from the options below. While the players create
+the team, come up with an opening scene and mission briefing to throw at
+them. Remember, don't tell them everything, just enough to get them
+started.
 
 <div class="colored">
 <div class="grid">
@@ -318,11 +318,11 @@ up with a relevant and action-packed opening scene to throw at them.
 
 #### the...
 
-1. Doomsday Machine
-2. World's Satellites
+1. World's Satellites
+2. Doomsday Machine
 3. Alien Artifact
 4. Ancient Ruin
-5. Team's Base
+5. Bureau HQ
 6. President
 
 </div>
@@ -335,7 +335,7 @@ up with a relevant and action-packed opening scene to throw at them.
 3. Make them rich
 4. Enslave humanity
 5. Destroy the world
-6. Destroy the heroes
+6. Destroy the Bureau
 
 </div>
 </div> <!-- grid -->
@@ -351,12 +351,6 @@ out how it goes. Roll +1d if you’re *prepared* and +1d if you’re an
 character's power, style, origin, and the situation. The GM also has
 final say on whether you are acting as a *cape* or as an *agent*. *Roll
 your dice and compare each die result to your number.*
-
-A convenient shortcut is to ask "Is this something that Batman (resp.
-Superman) would do?" Ex: A villain has hostages and has demanded that
-the heroes come to the abandoned courthouse at 9:00. If you think that
-it is a trap and prepare an elaborate counter-trap, that's an agent
-action. Is there an alternative action that is more cape-y?
 
 <div class="colored">
 <div class="grid">
@@ -379,11 +373,11 @@ roll *over* your number. Rolling over your number is a *success*.
 </div> <!-- grid -->
 </div> <!-- colored -->
 
-### Flash of Insight
+### Classified Information
 
-In either case, if you roll your number exactly, you have a *flash of
-insight*. You get a special insight into what’s going on. Ask the GM a
-question and they’ll answer you honestly. Some good questions:
+In either case, if you roll your number exactly, learn some *classified
+information*. You get a special insight into what’s going on.  Ask the
+GM a question and they’ll answer you honestly. Some good questions:
 
 > What are they really feeling? Who’s behind this? How could I get them
 > to do X? What should I be on the lookout for? What’s the best way to
@@ -436,20 +430,19 @@ and make a roll. If you succeed, give them +1d.
 
 ### GM: Run the Game
 
-Play to find out how they defeat the threat. Introduce the threat by
-showing evidence of its recent badness. Before a threat does something
-to the characters, show signs that it’s about to happen, then ask them
-what they do. "Electrometus raises his hands, crackling with
-electricity. What do you do?" "The horrific worm is poised on the
-guardian's shoulder. What do you do?"
+Play to find out how the team defeats the threat. Uncover the truth as
+the game continues - keep the players guessing. Before a threat does
+something to the characters, show signs that it’s about to happen, then
+ask them what they do. "Electrometus raises his hands, crackling with
+electricity. What do you do?" "The brain worm is poised on Agent Ida's
+shoulder. What do you do?"
 
-Let the heroes use their team's boon to their advantage sometimes, and
-introduce complications because of their bane.
+Let the players use their team's boon to their advantage sometimes.
+Introduce complications because of their bane.
 
 Call for a roll when the situation is uncertain. Don’t pre-plan
-outcomes, let the chips fall where they may. Use failures to push the
-action forward. The situation always changes after a roll, for good or
-ill.
+outcomes, and use failures to push the action forward. The situation
+always changes after a roll, for good or ill.
 
 Ask questions and build on the answers. "Have any of you encountered a
 Bear Tamer before? Where? What happened?"

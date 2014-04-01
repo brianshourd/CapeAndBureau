@@ -93,7 +93,7 @@ playing works together to tell an interesting and fantastic story. One
 person is designated the *game master* (GM) and all the others are
 *players*. Every player designs and controls a single character (called
 a *player character* or PC) in the imaginary world of the game. You get
-to make every desision for your PC, and interact with the other PCs and
+to make every decision for your PC, and interact with the other PCs and
 the world for them. It's one part game and one part improv.
 
 The GM is different. He/she doesn't control a PC. Instead, they control
@@ -130,7 +130,7 @@ monster when he gets angry, you should play that up. In scientific
 scenarios, he may be awesome. In tense social situations, it may be all
 that you can do to keep from raging out.
 
-The goal of the game is simply to have fun, and tell memerable tales
+The goal of the game is simply to have fun, and tell memorable tales
 together. Generally, the GM will come up with a threat that is bad for
 the world, and the heroes will try to stop that threat from succeeding.
 But this is simply a vehicle for telling an interesting and exciting
@@ -380,12 +380,12 @@ roll *over* your number. Rolling over your number is a *success*.
 ### Classified Information
 
 In either case, if you roll your number exactly, learn some *classified
-information*. You get a special insight into what’s going on.  Ask the
+information*. You get a special insight into what's going on.  Ask the
 GM a question and they’ll answer you honestly. Some good questions:
 
-> What are they really feeling? Who’s behind this? How could I get them
-> to do X? What should I be on the lookout for? What’s the best way to
-> do Y?  What’s really going on here?
+> What are they really feeling? Who's behind this? How could I get them
+> to do X? What should I be on the lookout for? What's the best way to
+> do Y?  What's really going on here?
 
 You can change your action if you want to, then roll again.
 
@@ -429,14 +429,14 @@ some extra effect you get.
 
 ### Helping 
 
-If you want to help someone else who’s rolling, say how you try to help
+If you want to help someone else who's rolling, say how you try to help
 and make a roll. If you succeed, give them +1d.
 
 ### GM: Run the Game
 
 Play to find out how the team defeats the threat. Uncover the truth as
 the game continues - keep the players guessing. Before a threat does
-something to the characters, show signs that it’s about to happen, then
+something to the characters, show signs that it's about to happen, then
 ask them what they do. "Electrometus raises his hands, crackling with
 electricity. What do you do?" "The brain worm is poised on Agent Ida's
 shoulder. What do you do?"
@@ -444,7 +444,7 @@ shoulder. What do you do?"
 Let the players use their team's boon to their advantage sometimes.
 Introduce complications because of their bane.
 
-Call for a roll when the situation is uncertain. Don’t pre-plan
+Call for a roll when the situation is uncertain. Don't pre-plan
 outcomes, and use failures to push the action forward. The situation
 always changes after a roll, for good or ill.
 

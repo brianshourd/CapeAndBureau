@@ -1,4 +1,4 @@
-# Capes and Cowls
+# Cape and Bureau
 
 A superhero RPG, powered by John Harper's [Lasers and
 Feelings](http://onesevendesign.com/lasers_and_feelings_rpg.pdf) (check
@@ -8,7 +8,7 @@ License](http://creativecommons.org/licenses/by-nc-sa/3.0/us/).
 
 Designed for a handful of players and 1 game master (GM), to be played
 with little or no prep. Each character has only one stat, and the game
-can be played with just a handful of d6s.
+can be played with just a few d6s.
 
 The [full rules can be found
 here](http://brianshourd.github.io/CapesAndCowls/).

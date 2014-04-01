@@ -1,14 +1,15 @@
-# Capes and Cowls RPG
+# Cape and Bureau RPG
 
-THE WORLD IS IN PERIL and your team is the only thing that stands
-between evil and innocence. Everything rests on your shoulders. Are you
-up to the challenge?
+THE WORLD IS IN PERIL and your team of superheroes is the only thing
+that stands between evil and innocence. Everything rests on your
+shoulders. Are you up to the challenge?
 
 ## About
 
-Capes & Cowls RPG is a minimalist (the rules fit on a single page)
+Cape and Bureau RPG is a minimalist (the rules fit on a single page)
 superhero role-playing game written by Brian Shourd
-([brianshourd.com](http://brianshourd.com)), based on John Harper's [Lasers and
+([brianshourd.com](http://brianshourd.com)), based on John Harper's
+[Lasers and
 Feelings](http://onesevendesign.com/lasers_and_feelings_rpg.pdf).
 Designed for 2-6 players, 1 game master (GM), a handful of six-sided
 dice (d6), and little to no prep. Special thanks to Graham Starfelt,
@@ -219,10 +220,10 @@ Pick a really awesome superhero name.
 <div class="unit one-of-two">
 #### Number
 
-Choose a number, from 2 to 5. A high number means you are a *cowl*, and
-good at: detective work, calm rationality, plots and plans (think
-Batman). A low number means you are a *cape*, and good at: intuition,
-diplomacy, wild and passionate action (think Superman).
+Choose a number, from 2 to 5. A low number means you are a *cape*, and
+good at: intuition, diplomacy, wild and passionate action (think
+Superman). A high number means you are an *agent*, and good at:
+detective work, calm rationality, plots and plans (think Batman). 
 
 </div>
 <div class="unit one-of-four">
@@ -354,22 +355,22 @@ Whenever your character tries to do something risky, roll 1d6 to find
 out how it goes. Roll +1d if you’re *prepared* and +1d if you’re an
 *expert*. The GM tells you how many dice to roll, based on your
 character's power, style, origin, and the situation. The GM also has
-final say on whether you are acting as a *cape* or as a *cowl*. *Roll
+final say on whether you are acting as a *cape* or as an *agent*. *Roll
 your dice and compare each die result to your number.*
 
 A convenient shortcut is to ask "Is this something that Batman (resp.
 Superman) would do?" Ex: A villain has hostages and has demanded that
 the heroes come to the abandoned courthouse at 9:00. If you think that
-it is a trap and prepare an elaborate counter-trap, that's a cowl
+it is a trap and prepare an elaborate counter-trap, that's an agent
 action. Is there an alternative action that is more cape-y?
 
 <div class="colored">
 <div class="grid">
 <div class="unit one-of-two">
 
-#### Cowl (roll low)
+#### Agent (roll low)
 
-If you’re using your *cowl* (plans, reason, detecting), you want to roll
+If you’re acting the *agent* (plans, reason, detecting), you want to roll
 *under* your number. Rolling under your number is a *success*.
 
 </div>
@@ -377,7 +378,7 @@ If you’re using your *cowl* (plans, reason, detecting), you want to roll
 
 #### Cape (roll high)
 
-If you’re using your *cape* (rapport, passion, intuition), you want to
+If you’re acting the *cape* (rapport, passion, intuition), you want to
 roll *over* your number. Rolling over your number is a *success*.
 
 </div>

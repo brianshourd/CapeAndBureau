@@ -28,8 +28,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="173.07615"
-     inkscape:cy="513.18619"
+     inkscape:cx="475.00936"
+     inkscape:cy="499.93768"
      inkscape:document-units="pt"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -58,7 +58,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -69,7 +69,7 @@
      transform="translate(0,-62.36218)">
     <g
        id="g13748"
-       transform="matrix(0,-0.96333728,0.96333793,0,-263.07697,1034.2142)">
+       transform="matrix(0,-0.96333728,0.96333793,0,-263.07696,1034.2142)">
       <path
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
@@ -684,7 +684,7 @@
            sodipodi:role="line">NUMBER</tspan></text>
     </g>
     <g
-       transform="matrix(0,-0.96333728,0.96333793,0,-263.07697,1034.2142)"
+       transform="matrix(0,-0.96333728,0.96333793,0,-263.07696,1034.2142)"
        id="g7956">
       <rect
          style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.49999905;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:2.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -723,7 +723,7 @@
            id="flowPara7794"
            style="font-size:10px;line-height:121.00000381%"><flowSpan
    id="flowSpan7798"
-   style="font-weight:bold;line-height:121.00000381%;-inkscape-font-specification:Georgia Bold">Cape (roll high)</flowSpan>: If you’re using your cape (rapport, passion, intuition), every roll <flowSpan
+   style="font-weight:bold;line-height:121.00000381%;-inkscape-font-specification:Georgia Bold">Cape (roll high)</flowSpan>: If you’re acting like a cape (rapport, passion, intuition), every roll <flowSpan
    id="flowSpan7800"
    style="font-weight:bold;line-height:121.00000381%;-inkscape-font-specification:Georgia Bold">over</flowSpan> your number is a <flowSpan
    id="flowSpan7802"
@@ -731,7 +731,7 @@
            id="flowPara7796"
            style="font-size:10px;line-height:121.00000381%"><flowSpan
    id="flowSpan7804"
-   style="font-weight:bold;line-height:121.00000381%;-inkscape-font-specification:Georgia Bold">Cowl (roll low)</flowSpan>: If you’re using your cowl (reason, plans, detecting), every roll <flowSpan
+   style="font-weight:bold;line-height:121.00000381%;-inkscape-font-specification:Georgia Bold">Agent (roll low)</flowSpan>: If you’re acting like an agent (reason, plans, detecting), every roll <flowSpan
    id="flowSpan7806"
    style="font-weight:bold;line-height:121.00000381%;-inkscape-font-specification:Georgia Bold">under</flowSpan> your number is a <flowSpan
    id="flowSpan7808"
@@ -779,7 +779,7 @@
    id="flowSpan7812"
    style="font-weight:bold;line-height:121.00000381%;-inkscape-font-specification:Georgia Bold">Helping</flowSpan>: If you want to help someone else with their roll, say how you try to help and make a roll. If you succeed, give them +1d.</flowPara></flowRoot>    </g>
     <g
-       transform="matrix(0,-0.96333728,0.96333793,0,-263.07697,557.3622)"
+       transform="matrix(0,-0.96333728,0.96333793,0,-263.07696,557.3622)"
        id="g7956-6">
       <rect
          style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.49999905;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:2.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -818,7 +818,7 @@
            id="flowPara7794-3"
            style="font-size:10px;line-height:121.00000381%"><flowSpan
    id="flowSpan7798-5"
-   style="font-weight:bold;line-height:121.00000381%;-inkscape-font-specification:Georgia Bold">Cape (roll high)</flowSpan>: If you’re using your cape (rapport, passion, intuition), every roll <flowSpan
+   style="font-weight:bold;line-height:121.00000381%;-inkscape-font-specification:Georgia Bold">Cape (roll high)</flowSpan>: If you’re acting like a cape (rapport, passion, intuition), every roll <flowSpan
    id="flowSpan7800-5"
    style="font-weight:bold;line-height:121.00000381%;-inkscape-font-specification:Georgia Bold">over</flowSpan> your number is a <flowSpan
    id="flowSpan7802-0"
@@ -826,7 +826,7 @@
            id="flowPara7796-5"
            style="font-size:10px;line-height:121.00000381%"><flowSpan
    id="flowSpan7804-6"
-   style="font-weight:bold;line-height:121.00000381%;-inkscape-font-specification:Georgia Bold">Cowl (roll low)</flowSpan>: If you’re using your cowl (reason, plans, detecting), every roll <flowSpan
+   style="font-weight:bold;line-height:121.00000381%;-inkscape-font-specification:Georgia Bold">Agent (roll low)</flowSpan>: If you’re acting like an agent (reason, plans, detecting), every roll <flowSpan
    id="flowSpan7806-2"
    style="font-weight:bold;line-height:121.00000381%;-inkscape-font-specification:Georgia Bold">under</flowSpan> your number is a <flowSpan
    id="flowSpan7808-9"
@@ -876,7 +876,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path11369-5"
-       d="m 750.10106,557.36272 -735.748372,0"
+       d="m 750.10106,557.36272 -735.74838,0"
        style="fill:none;stroke:#000000;stroke-width:1.20537615;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.41075236, 1.20537618;stroke-dashoffset:1.20537618" />
   </g>
 </svg>

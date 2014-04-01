@@ -1,12 +1,4 @@
 /* From toast.css */
-.container {
-	/* Whatever you want. They’re your oats. */
-	max-width: 960px;
-	margin: 0 auto;
-	padding: 0 30px;
-	padding: 0 1.5rem;
-}
-
 .grid {
 	margin-left: -3%;
 	max-width: 105%;
@@ -149,7 +141,9 @@ em {
     font-weight: bold;
 }
 .container {
+	max-width: 960px;
     background-color: white;
+	margin: 0 auto;
     padding: 5px 30px;
     border-radius: 25px;
     moz-border-radius: 25px;
@@ -206,6 +200,16 @@ img#logo {
 		margin-left: 0;
 		max-width: none;
 	}
+
+    .container {
+        padding: 5px 10px;
+        border-radius: 15px;
+        moz-border-radius: 15px;
+    }
+
+    body {
+        padding: 10px;
+    }
 
 	.unit {
 		width: auto;

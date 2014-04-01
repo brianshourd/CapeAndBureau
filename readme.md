@@ -11,7 +11,7 @@ with little or no prep. Each character has only one stat, and the game
 can be played with just a few d6s.
 
 The [full rules can be found
-here](http://brianshourd.github.io/CapesAndCowls/).
+here](http://brianshourd.github.io/CapeAndBureau/).
 
 ## Tech Specs
 

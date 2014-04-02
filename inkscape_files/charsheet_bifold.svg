@@ -28,8 +28,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="209.32037"
-     inkscape:cy="526.22869"
+     inkscape:cx="558.60299"
+     inkscape:cy="408.25352"
      inkscape:document-units="pt"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -58,7 +58,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -720,6 +720,14 @@
            style="font-size:10px;line-height:121.00000381%"><flowSpan
    id="flowSpan7740"
    style="font-weight:bold;line-height:121.00000381%;-inkscape-font-specification:Georgia Bold">Rolling the Dice</flowSpan>: When you try something risky, roll 1d6 to find out how it goes. Roll +1d if you’re prepared and +1d if you’re an expert. The GM tells you how many dice to roll based on your character traits, your action, and the situation. Roll and compare each die result to your number.</flowPara><flowPara
+           style="font-size:10px;line-height:121.00000381%"
+           id="flowPara3166"><flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Georgia Bold"
+   id="flowSpan3168">Agent (roll low)</flowSpan>: If you’re acting like an agent (reason, plans, detecting), every roll <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Georgia Bold"
+   id="flowSpan3170">under</flowSpan> your number is a <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Georgia Bold"
+   id="flowSpan3172">success</flowSpan>.</flowPara><flowPara
            id="flowPara7794"
            style="font-size:10px;line-height:121.00000381%"><flowSpan
    id="flowSpan7798"
@@ -729,13 +737,7 @@
    id="flowSpan7802"
    style="font-weight:bold;line-height:121.00000381%;-inkscape-font-specification:Georgia Bold">success</flowSpan>.</flowPara><flowPara
            id="flowPara7796"
-           style="font-size:10px;line-height:121.00000381%"><flowSpan
-   id="flowSpan7804"
-   style="font-weight:bold;line-height:121.00000381%;-inkscape-font-specification:Georgia Bold">Agent (roll low)</flowSpan>: If you’re acting like an agent (reason, plans, detecting), every roll <flowSpan
-   id="flowSpan7806"
-   style="font-weight:bold;line-height:121.00000381%;-inkscape-font-specification:Georgia Bold">under</flowSpan> your number is a <flowSpan
-   id="flowSpan7808"
-   style="font-weight:bold;line-height:121.00000381%;-inkscape-font-specification:Georgia Bold">success</flowSpan>.</flowPara><flowPara
+           style="font-size:10px;line-height:121.00000381%" /><flowPara
            id="flowPara7742"
            style="font-size:10px;line-height:121.00000381%" /><flowPara
            style="font-size:10px;line-height:124.00000095%"
@@ -815,21 +817,21 @@
            style="font-size:10px;line-height:121.00000381%"><flowSpan
    id="flowSpan7740-5"
    style="font-weight:bold;line-height:121.00000381%;-inkscape-font-specification:Georgia Bold">Rolling the Dice</flowSpan>: When you try something risky, roll 1d6 to find out how it goes. Roll +1d if you’re prepared and +1d if you’re an expert. The GM tells you how many dice to roll based on your character traits, your action, and the situation. Roll and compare each die result to your number.</flowPara><flowPara
-           id="flowPara7794-3"
+           style="font-size:10px;line-height:121.00000381%"
+           id="flowPara3182"><flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Georgia Bold"
+   id="flowSpan3184">Agent (roll low)</flowSpan>: If you’re acting like an agent (reason, plans, detecting), every roll <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Georgia Bold"
+   id="flowSpan3186">under</flowSpan> your number is a <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Georgia Bold"
+   id="flowSpan3188">success</flowSpan>.</flowPara><flowPara
+           id="flowPara7796-5"
            style="font-size:10px;line-height:121.00000381%"><flowSpan
    id="flowSpan7798-5"
    style="font-weight:bold;line-height:121.00000381%;-inkscape-font-specification:Georgia Bold">Cape (roll high)</flowSpan>: If you’re acting like a cape (rapport, passion, intuition), every roll <flowSpan
    id="flowSpan7800-5"
    style="font-weight:bold;line-height:121.00000381%;-inkscape-font-specification:Georgia Bold">over</flowSpan> your number is a <flowSpan
    id="flowSpan7802-0"
-   style="font-weight:bold;line-height:121.00000381%;-inkscape-font-specification:Georgia Bold">success</flowSpan>.</flowPara><flowPara
-           id="flowPara7796-5"
-           style="font-size:10px;line-height:121.00000381%"><flowSpan
-   id="flowSpan7804-6"
-   style="font-weight:bold;line-height:121.00000381%;-inkscape-font-specification:Georgia Bold">Agent (roll low)</flowSpan>: If you’re acting like an agent (reason, plans, detecting), every roll <flowSpan
-   id="flowSpan7806-2"
-   style="font-weight:bold;line-height:121.00000381%;-inkscape-font-specification:Georgia Bold">under</flowSpan> your number is a <flowSpan
-   id="flowSpan7808-9"
    style="font-weight:bold;line-height:121.00000381%;-inkscape-font-specification:Georgia Bold">success</flowSpan>.</flowPara><flowPara
            id="flowPara7742-9"
            style="font-size:10px;line-height:121.00000381%" /><flowPara

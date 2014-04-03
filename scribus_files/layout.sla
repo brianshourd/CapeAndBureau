@@ -83,7 +83,7 @@
             <ITEXT FONT="Lora Regular" FONTSIZE="10" CH=" If you’re acting like a cape (intuition, rapport, passion), you want to roll over your number. Rolling over your number is a success."/>
             <para PARENT="Lora Paragraph"/>
             <ITEXT FONT="Arvo Bold" FONTSIZE="10" FEATURES="inherit smallcaps" CH="Classified Information"/>
-            <ITEXT FONT="Lora Regular" FONTSIZE="10" CH=": If you roll your number exactly, you learn some classified information. You get to ask the GM a question that they’ll answer  honestly. Examples: What are they really feeling? Who’s behind this? How could I get them to do X? What’s really going on here? You can change your action if you want to, then roll again."/>
+            <ITEXT FONT="Lora Regular" FONTSIZE="10" CH=": If one or more dice roll exactly your number, you learn some classified information. Ask the GM a question and they’ll answer you honestly. Reroll those dice until they roll successes or failures. Examples: What are they really feeling? Who’s behind this? How could I get them to do X? What’s really going on here?"/>
             <para PARENT="Lora Paragraph"/>
             <ITEXT FONT="Arvo Bold" FEATURES="inherit smallcaps" CH="Interpreting Results"/>
             <para PARENT="Lora Paragraph"/>

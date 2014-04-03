@@ -379,15 +379,14 @@ roll *over* your number. Rolling over your number is a *success*.
 
 ### Classified Information
 
-In either case, if you roll your number exactly, learn some *classified
-information*. You get a special insight into what's going on.  Ask the
-GM a question and they’ll answer you honestly. Some good questions:
+If one or more dice roll exactly your number, you learn some *classified
+information*. Ask the GM a question and they’ll answer you honestly.
+Reroll those dice until they roll successes or failures. Some good
+questions:
 
 > What are they really feeling? Who's behind this? How could I get them
 > to do X? What should I be on the lookout for? What's the best way to
 > do Y?  What's really going on here?
-
-You can change your action if you want to, then roll again.
 
 ### Interpreting Results
 

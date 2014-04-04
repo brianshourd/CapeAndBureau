@@ -10,19 +10,11 @@
 	*zoom: 1;
 	vertical-align: top;
 	margin-left: 3%;
-	margin-right: -.25em;
+	margin-right: -.25rem;
 	/* Clearfix */
 	overflow: hidden;
 	*overflow: visible;
 }
-
-	.unit.demo {
-		background-color: #fff8eb;
-		height: 48px;
-		height: 3rem;
-		margin-bottom: 24px;
-		margin-bottom: 1.5rem;
-	}
 
 .span-grid {
 	width: 97%;
@@ -45,83 +37,66 @@
 /* From markdown.css */
 
 img {
-    padding: 5px;
+    padding: 0.25rem;
     clear: both;
     max-width: 100%;
 }
 body {
     background-color: #100023;
     margin: 0 auto;
-    font-family: Georgia, Palatino, serif;
+    font-family: 'Lora', serif;
     color: #444444;
     line-height: 1;
     max-width: 960px;
-    padding: 30px;
+    padding: 1.75rem;
 }
-h1, h2, h3, h4 {
+h1, h2, h3, h4, h5 {
     color: #111111;
     font-weight: 400;
+    font-family: 'Arvo', serif;
 }
 h1, h2, h3, h4, h5, p {
-    margin-bottom: 24px;
+    margin-bottom: 1.5rem;
     padding: 0;
 }
 h1 {
-    font-size: 48px;
+    font-size: 3rem;
 }
 h2 {
-    font-size: 36px;
+    font-size: 2.25rem;
 }
 h3 {
-    font-size: 24px;
+    font-size: 1.5rem;
 }
 h4 {
-    font-size: 21px;
+    font-size: 1.3125rem;
 }
 h5 {
-    font-size: 18px;
+    font-size: 1.125rem;
 }
 ul, ol {
     padding: 0;
     margin: 0;
 }
 li {
-    line-height: 24px;
+    line-height: 1.5rem;
 }
 li ul, li ul {
-    margin-left: 24px;
+    margin-left: 1.5rem;
 }
 p, ul, ol {
-    font-size: 16px;
-    line-height: 24px;
+    font-size: 1rem;
+    line-height: 1.5rem;
 }
 pre {
-    padding: 0px 24px;
+    padding: 0 1.5rem;
     white-space: pre-wrap;
 }
-code {
-    font-family: Consolas, Monaco, Andale Mono, monospace;
-    line-height: 1.5;
-    font-size: 13px;
-}
-aside {
-    display: block;
-    float: right;
-}
 blockquote {
-    border-left:.5em solid #eee;
-    padding: 0 2em;
+    border-left: 0.5rem solid #eee;
+    padding: 0 2rem;
     margin-left:0;
 }
-blockquote  cite {
-    font-size:14px;
-    line-height:20px;
-    color:#bfbfbf;
-}
-blockquote cite:before {
-    content: '\2014 \00A0';
-}
-
 blockquote p {  
     color: #666;
 }
@@ -144,31 +119,31 @@ em {
 	max-width: 960px;
     background-color: white;
 	margin: 0 auto;
-    padding: 5px 30px;
-    border-radius: 25px;
-    moz-border-radius: 25px;
+    padding: 0.25rem 1.75rem;
+    border-radius: 1.5rem;
+    moz-border-radius: 1.5rem;
 }
 .grid {
-    padding: 0px 20px 20px 20px;
-    margin-bottom: 20px;
+    padding: 0 1.25rem 1.25rem 1.25rem;
+    margin-bottom: 1.25rem;
 }
 .colored {
     background-color: #CDC6D5;
-    border-radius: 25px;
-    moz-border-radius: 25px;
+    border-radius: 1.5rem;
+    moz-border-radius: 1.5rem;
 }
 .colored h2 {
     text-align: center;
     margin-top: 0;
     margin-bottom: 0;
-    padding-top: 20px;
+    padding-top: 1.25rem;
 }
 blockquote p {
     color: #444444;
 }
 blockquote {
-    border-left: 0.5em solid #100023;
-    padding: 0 1em;
+    border-left: 0.5rem solid #100023;
+    padding: 0 1rem;
 }
 a {
     color: #100023;
@@ -181,7 +156,7 @@ a:hover {
     color: #999026;
 }
 ol {
-    margin-left: 24px;
+    margin-left: 1.5rem;
 }
 ul {
     list-style-type: none;
@@ -191,7 +166,7 @@ figure {
 }
 img#logo {
     width: 100%;
-    max-width: 960px;
+    /* max-width: 960px; */
 }
 
 /* More from toast.css */
@@ -202,13 +177,13 @@ img#logo {
 	}
 
     .container {
-        padding: 5px 10px;
-        border-radius: 15px;
-        moz-border-radius: 15px;
+        padding: 0.25rem 0.5rem;
+        border-radius: 1rem;
+        moz-border-radius: 1rem;
     }
 
     body {
-        padding: 10px;
+        padding: 0.5rem;
     }
 
 	.unit {

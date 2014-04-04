@@ -1,5 +1,3 @@
-<img src="images/logo.png" alt="Cape and Bureau Logo" id="logo"/>
-
 THE WORLD IS IN PERIL. The Bureau of Civic Protection maintains an elite
 team of metahumans for just such an event. Your team. Can you save the
 world before it's too late?
@@ -17,9 +15,8 @@ Auden Reiter, and rednightmare for great ideas.
 know](#what-is-an-rpg).
 
 If you have any comments, suggestions, critiques, or just want to get
-ahold of me for some reason, email me at
-[brian.shourd@gmail.com](mailto:brian.shourd@gmail.com). I'd love to
-hear from you.
+ahold of me for some reason, email me at brian.shourd@gmail.com. I'd
+love to hear from you.
 
 [Full source](https://github.com/brianshourd/CapeAndBureau/) can be
 found on Github. Pull requests welcome!

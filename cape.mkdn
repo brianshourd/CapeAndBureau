@@ -359,7 +359,7 @@ your dice and compare each die result to your number.*
 
 #### Agent (roll low)
 
-If you’re acting the *agent* (plans, reason, detecting), you want to roll
+If you’re acting like an *agent* (plans, reason, detecting), you want to roll
 *under* your number. Rolling under your number is a *success*.
 
 </div>
@@ -367,7 +367,7 @@ If you’re acting the *agent* (plans, reason, detecting), you want to roll
 
 #### Cape (roll high)
 
-If you’re acting the *cape* (rapport, passion, intuition), you want to
+If you’re acting like a *cape* (rapport, passion, intuition), you want to
 roll *over* your number. Rolling over your number is a *success*.
 
 </div>

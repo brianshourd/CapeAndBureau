@@ -4,12 +4,12 @@ world before it's too late?
 
 Cape and Bureau RPG is a minimalist (the rules fit on a single page)
 superhero role-playing game written by Brian Shourd
-([brianshourd.com](http://brianshourd.com)), based on John Harper's
+([brianshourd.com](http://brianshourd.com)), inspired by John Harper's
 [Lasers and
 Feelings](http://onesevendesign.com/lasers_and_feelings_rpg.pdf).
-Designed for 2-6 players, 1 game master (GM), a handful of six-sided
-dice (d6), and little to no prep. Special thanks to Graham Starfelt,
-Auden Reiter, and rednightmare for great ideas.
+Designed for 2-6 players, 1 game master (GM), a handful of dice, and
+little to no prep. Special thanks to Graham Starfelt, Auden Reiter, and
+rednightmare for great ideas.
 
 *Never played an RPG before?* [Here are some things you may want to
 know](#what-is-an-rpg).
@@ -151,10 +151,11 @@ fun.
 
 ### Players: Create Your Superhero
 
-For each of the following characteristics, pick one from the list (or
-make one up) and mark it on your character sheet. When you are done,
-fill in the details in order to have a complete character with a
-backstory, personality, goals, a theme, etc.
+For each of the following *Attributes*, pick one from the list (or make
+one up) and mark it on your character sheet. When you are done, come up
+with a *name* and *emblem* for your character, and draw these on your
+character sheet. You should also come up with a *backstory*, so that
+your character feels real and fully fleshed out.
 
 <div class="colored">
 <div class="grid">
@@ -210,28 +211,6 @@ backstory, personality, goals, a theme, etc.
 * Love
 
 </div>
-<div class="unit one-of-four">
-#### Name
-
-Pick a superhero name, your Bureau moniker.
-
-</div>
-<div class="unit one-of-two">
-#### Number
-
-Choose a number, from 2 to 5. A low number means you act like a *cape*,
-and are good at: intuition, diplomacy, wild and passionate action. A
-high number means you act like an *agent*, and are good at: detective
-work, calm rationality, plots and plans. 
-
-</div>
-<div class="unit one-of-four">
-#### Emblem
-
-Something that fits your name and powers. Draw it on your character
-sheet.
-
-</div>
 </div> <!-- grid -->
 </div> <!-- colored -->
 
@@ -271,18 +250,6 @@ plans are foiled.
 * Tight-knit 
 
 </div>
-<!--
-<div class="unit two-of-three">
-
-#### Bonds
-
-Every character should have a bond with one or two other characters on
-the team, something tying them together.
-
-> Examples: Brother and sister, In the war together, Used to date.
-
-</div>
--->
 </div> <!-- grid -->
 </div> <!-- colored -->
 
@@ -348,48 +315,74 @@ started.
 
 ## Playing the Game
 
+### Consequences
+
+Sometimes, when things don't go the way we want, there are consequences.
+A *Consequence* is something that happens to your character that makes
+life harder for them. They might be running out of willpower, bleeding,
+tired, confused, or losing their sanity.
+
+Each time your character gets a consequence, mark a consequence box on
+your character sheet, and write down a description of the consequence.
+*Your maximum dice pool size is reduced by one*.  That means that if you
+have no consequences, you can roll up to five d6s (see the section on
+rolling), but if you have one consequence, you can never roll more than
+four d6s, regardless of the action. If you have two consequences, you
+can't roll more than three d6s, and so on.
+
+Your character can have at most *five* consequences before they are out
+of action (their dice pool size is reduced to 0). They might be dead,
+unconscious, or they may simply have given up. If every character
+reaches five consequences, the team is helpless, and they fail whatever
+their current objective was.
+
+If it makes sense in the story, characters can sometimes remove
+consequences. This may require a roll (if e.g. someone has the Healer
+style), or it may not. Players may need to see a doctor, psycologist,
+shaman, or some other expert to remove their consequences, depending on
+the nature of the consequence.
+
 ### Rolling the Dice
 
-Whenever your character tries to do something risky, roll 1d6 to find
-out how it goes. Roll +1d if you’re *prepared* and +1d if you’re an
-*expert*. The GM tells you how many dice to roll, based on your
-character's power, style, origin, and the situation. The GM also has
-final say on whether you are acting as a *cape* or as an *agent*. *Roll
-your dice and compare each die result to your number.*
+Whenever your character tries to do something risky and there is both a
+reasonable and interesting chance of failure, you must roll some dice.
+Begin by describing your action and your goals in a cinematic and vivid
+way. The more exciting the description, the better.
 
-<div class="colored">
-<div class="grid">
-<div class="unit one-of-two">
+For each *Attribute* (Power, Style, Origin, Motivation), if your
+description includes an explanation of how that attribute helps your
+character accomplish the action, you get to add a six-sided die (d6) to
+your dice pool. In addition, if your description was exceptionally
+vivid, cinematic, and all around cool, you get to add another d6 to your
+dice pool.
 
-#### Agent (roll low)
+You can have up to five dice in your dice pool, unless you have taken
+*Consequences*. The maximum number of dice is reduced by one for each
+consequence your character has taken.
 
-If you’re acting like an *agent* (plans, reason, detecting), you want to roll
-*under* your number. Rolling under your number is a *success*.
+In addition to the d6s in your dice pool, you always get to roll the
+*Insight Die*, a 10-sided die.
 
-</div>
-<div class="unit one-of-two">
+That means that you always roll one d10 and between one and five d6s,
+but never more d6s than your character's current max.
 
-#### Cape (roll high)
+#### Classified Information
 
-If you’re acting like a *cape* (rapport, passion, intuition), you want to
-roll *over* your number. Rolling over your number is a *success*.
-
-</div>
-</div> <!-- grid -->
-</div> <!-- colored -->
-
-### Classified Information
-
-If one or more dice roll exactly your number, you learn some *classified
-information*. Ask the GM a question and they’ll answer you honestly.
-Reroll those dice until they roll successes or failures. Some good
-questions:
+If the *Insight Die* matches any of the dice in your dice pool, you
+learn some *classified information*. Ask the GM a question and they’ll
+answer you honestly. Some good questions:
 
 > What are they really feeling? Who's behind this? How could I get them
 > to do X? What should I be on the lookout for? What's the best way to
 > do Y?  What's really going on here?
 
-### Interpreting Results
+This is the only thing that the insight die is used for - it does not
+count towards the number of successes, and it doesn't count toward the
+maximum number of dice in your dice pool.
+
+#### Interpreting Results
+
+For each d6 that shows a 5 or a 6, you get a success.
 
 <div class="colored">
 <div class="grid">
@@ -397,15 +390,15 @@ questions:
 
 #### 0
 
-If none of your dice succeed, it goes wrong. The GM says how things get
-worse somehow.
+If none of your d6s succeed, it goes wrong. Explain what went wrong, and
+give your character a *Consequence*.
 
 </div>
 <div class="unit one-of-four">
 
 #### 1
 
-If one die succeeds, you barely manage it. The GM inflicts a
+If one d6 succeeds, you barely manage it. The GM inflicts a
 complication, harm, or cost.
 
 </div>
@@ -413,43 +406,86 @@ complication, harm, or cost.
 
 #### 2
 
-If two dice succeed, you do it well. Good job!
+If two d6s succeed, you do it well. Good job!
 
 </div>
 <div class="unit one-of-four">
 
-#### 3
+#### 3+
 
-If three dice succeed, you get a critical success!  The GM tells you
-some extra effect you get.
+If three or more d6s succeed, you get a critical success!  The GM tells
+you some extra effect you get.
 
 </div>
 </div> <!-- grid -->
 </div> <!-- colored -->
 
-### Helping 
+#### Helping 
 
 If you want to help someone else who's rolling, say how you try to help
-and make a roll. If you succeed, give them +1d.
+and make a roll. If you succeed, give them an extra d6, but remember
+that they can never roll more than their maximum.
 
 ### GM: Run the Game
 
 Play to find out how the team defeats the threat. Uncover the truth as
-the game continues - keep the players guessing. Before a threat does
-something to the characters, show signs that it's about to happen, then
-ask them what they do. "Electrometus raises his hands, crackling with
-electricity. What do you do?" "The brain worm is poised on Agent Ida's
-shoulder. What do you do?"
+the game continues - keep the players guessing. 
 
 Let the players use their team's boon to their advantage sometimes.
 Introduce complications because of their bane.
 
-Call for a roll when the situation is uncertain. Don't pre-plan
-outcomes, and use failures to push the action forward. The situation
-always changes after a roll, for good or ill.
+Use failures to push the action forward. The situation always changes
+after a roll, for good or ill.
 
-Ask questions and build on the answers. "Have any of you encountered a
-Bear Tamer before? Where? What happened?"
+Let each roll represent a large action or set of actions. Typical
+combats take only 1-2 rolls per player, at which point they can move on
+to something else.
+
+Encourage players to be vivid in their descriptions - they should get
+the bonus description d6 on every roll. This isn't cheating, this is by
+design.
+
+### Example
+
+Bruce is playing Batman (Power: Gadgets, Style: Sneaker, Origin:
+Survivor, Motivation: Justice), who is trying to spy on a drug-deal
+between two rival gangs. Bruce says:
+
+> I try to stay up high in the rafters, sneaking about and staying in
+> the dark. Like a shadow, I glide silently from beam to beam, so
+> quickly that anyone glancing up would only see a glimmer of night. I
+> know that this information is of paramount importance if I'm going to
+> bring down the Falcones, so I stay extra careful.
+
+This description makes it clear that Batman is using his style as a
+Sneaker and his motivation for Justice while attempting this action. In
+addition, the description was very vivid and exciting, so Bruce gets to
+roll 3 d6s (plus the Insight Die). Right now, Batman has one
+consequence, and so he has a maximum dice pool size of four. Three is
+less than four, so Bruce gets to roll all 3 dice. He rolls a 4, 4, and 2
+on the d6s, and a 2 on the Insight die. That means he failed in his
+action, but that he learns some classified information. Before
+describing the failure, Bruce asks the GM:
+
+> Who is in charge of the Falcone gang here tonight?
+
+> GM: The pudgy guy near the van, smoking a cigarette, is Jonny Falcone,
+> and he's supposed to be running tonight's deal.
+
+Because he failed the action, Bruce must describe how things go wrong
+and give himself a consequence. He says:
+
+> Just as I get close enough to hear the deal, I see Jonny reach into
+> his coat. While I'm focusing on what he is doing, I don't realize that
+> the beam I am standing on was dusty, and some dust falls down onto the
+> other men. One of the guys looks up. He shouts to his men that the Bat
+> is here, and they start firing up into the rafters. I drop down behind
+> the van, to keep out of their line of fire, but I can't help kicking
+> myself for ruining this chance.
+
+He takes the consequence "Self-doubts and second-guesses" and reduces
+his max dice pool size by one to three. Which is bad, since now all of
+the bad guys are coming after him.
 
 ---
 

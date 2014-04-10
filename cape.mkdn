@@ -153,9 +153,8 @@ fun.
 
 For each of the following *Attributes*, pick one from the list (or make
 one up) and mark it on your character sheet. When you are done, come up
-with a *name* and *emblem* for your character, and draw these on your
-character sheet. You should also come up with a *backstory*, so that
-your character feels real and fully fleshed out.
+with a name and backstory. Lastly, draw an emblem for your character on
+your sheet.
 
 <div class="colored">
 <div class="grid">
@@ -317,72 +316,61 @@ started.
 
 ### Consequences
 
-Sometimes, when things don't go the way we want, there are consequences.
 A *Consequence* is something that happens to your character that makes
-life harder for them. They might be running out of willpower, bleeding,
-tired, confused, or losing their sanity.
+life harder. They might be running out of willpower, bleeding, tired,
+or losing their sanity.
 
-Each time your character gets a consequence, mark a consequence box on
-your character sheet, and write down a description of the consequence.
-*Your maximum dice pool size is reduced by one*.  That means that if you
+When your character gets a consequence, mark a consequence box on your
+character sheet, and write down a short description of the consequence.
+*Your maximum dice pool size (Max Dice) is reduced by one*. So if you
 have no consequences, you can roll up to five d6s (see the section on
 rolling), but if you have one consequence, you can never roll more than
-four d6s, regardless of the action. If you have two consequences, you
-can't roll more than three d6s, and so on.
+four d6s. If you have two consequences, you can't roll more than three
+d6s, and so on.
 
-Your character can have at most *five* consequences before they are out
-of action (their dice pool size is reduced to 0). They might be dead,
-unconscious, or they may simply have given up. If every character
-reaches five consequences, the team is helpless, and they fail whatever
-their current objective was.
+Your character can only take *five* consequences before they are out
+of action. They might be dead, unconscious, or they may simply have
+given up. If every character reaches five consequences, the team is
+helpless, and they fail whatever their current objective was.
 
 If it makes sense in the story, characters can sometimes remove
 consequences. This may require a roll (if e.g. someone has the Healer
-style), or it may not. Players may need to see a doctor, psycologist,
-shaman, or some other expert to remove their consequences, depending on
-the nature of the consequence.
+style), or it may not. Players may need to see some kind of expert to
+remove their consequences, depending.
 
 ### Rolling the Dice
 
-Whenever your character tries to do something risky and there is both a
-reasonable and interesting chance of failure, you must roll some dice.
-Begin by describing your action and your goals in a cinematic and vivid
-way. The more exciting the description, the better.
+Whenever your character tries to do something and there is both a
+reasonable and interesting chance of failure, roll some dice.  Describe
+your action and your goals in a cinematic and vivid way. 
 
 For each *Attribute* (Power, Style, Origin, Motivation), if your
-description includes an explanation of how that attribute helps your
-character accomplish the action, you get to add a six-sided die (d6) to
-your dice pool. In addition, if your description was exceptionally
-vivid, cinematic, and all around cool, you get to add another d6 to your
-dice pool.
+description explains some way that attribute helps to accomplish the
+action, you get to add a six-sided die (d6) to your dice pool. In
+addition, if your description was exceptionally vivid, cinematic, or
+cool, you get to add another d6 to your dice pool.
 
-You can have up to five dice in your dice pool, unless you have taken
-*Consequences*. The maximum number of dice is reduced by one for each
-consequence your character has taken.
+You never roll more d6s than than your *Max Dice* number.
 
 In addition to the d6s in your dice pool, you always get to roll the
 *Insight Die*, a 10-sided die.
 
-That means that you always roll one d10 and between one and five d6s,
-but never more d6s than your character's current max.
-
 #### Classified Information
 
-If the *Insight Die* matches any of the dice in your dice pool, you
-learn some *classified information*. Ask the GM a question and they’ll
-answer you honestly. Some good questions:
+If the *Insight Die* matches a die in your dice pool, you learn some
+*classified information*. Ask the GM a question and they’ll answer you
+honestly. Some good questions:
 
 > What are they really feeling? Who's behind this? How could I get them
 > to do X? What should I be on the lookout for? What's the best way to
 > do Y?  What's really going on here?
 
 This is the only thing that the insight die is used for - it does not
-count towards the number of successes, and it doesn't count toward the
-maximum number of dice in your dice pool.
+count towards the number of successes, nor does it count for *Max Dice*.
 
 #### Interpreting Results
 
-For each d6 that shows a 5 or a 6, you get a success.
+For each d6 that rolls a 5 or a 6, you get a success.
 
 <div class="colored">
 <div class="grid">
@@ -422,28 +410,22 @@ you some extra effect you get.
 
 #### Helping 
 
-If you want to help someone else who's rolling, say how you try to help
-and make a roll. If you succeed, give them an extra d6, but remember
-that they can never roll more than their maximum.
+If you want to help someone else who's rolling, explain how and make a
+roll. If you succeed, give them an extra d6, but remember that they can
+never roll more than their *Max Dice*.
 
 ### GM: Run the Game
 
 Play to find out how the team defeats the threat. Uncover the truth as
-the game continues - keep the players guessing. 
+the game continues - keep the players guessing. Let the players use
+their team's boon to their advantage sometimes. Introduce complications
+because of their bane.
 
-Let the players use their team's boon to their advantage sometimes.
-Introduce complications because of their bane.
-
-Use failures to push the action forward. The situation always changes
-after a roll, for good or ill.
-
-Let each roll represent a large action or set of actions. Typical
-combats take only 1-2 rolls per player, at which point they can move on
-to something else.
-
-Encourage players to be vivid in their descriptions - they should get
-the bonus description d6 on every roll. This isn't cheating, this is by
-design.
+Each roll represents a large action or set of actions. Combats take only
+1-2 rolls per player. Use failures to push the action forward. The
+situation always changes after a roll, for good or ill. Encourage
+players to be vivid in their descriptions - they should get the
+description d6 on every roll. This isn't cheating, this is by design.
 
 ### Example
 

@@ -311,9 +311,8 @@ life harder. They could be running out of willpower, bleeding, tired, or
 losing their sanity.
 
 When your character gets a consequence, mark a consequence box on your
-character sheet, and write down a short description of the consequence.
-*Your maximum dice pool size (Max Dice) is reduced by one for each
-consequence you have*. 
+character sheet, and write down a short description. *Your Max Dice
+number is reduced by one for each consequence you have*. 
 
 Your character can only take five consequences before they are out of
 action. They might be dead, unconscious, or they may simply have given
@@ -327,23 +326,23 @@ not, depending on the story and the consequence.
 ### Rolling the Dice
 
 Whenever your character tries to do something and there is both a
-reasonable and interesting chance of failure, roll some dice.  Describe
+reasonable and interesting chance of failure, roll some dice. Describe
 your action and your goals in a cinematic and vivid way. 
 
 For each *Attribute* (Power, Style, Origin, Motivation), if your
 description explains some way that attribute helps to accomplish the
-action, you get to add a six-sided die (d6) to your dice pool. In
+action, you get to add a 6-sided *Action die* to your dice pool. In
 addition, if your description was exceptionally vivid, cinematic, or
-cool, you get to add another d6 to your dice pool.
+cool, you get to add another Action die to your dice pool.
 
-You never roll more d6s than than your *Max Dice* number.
+You never roll more Action dice than than your *Max Dice* number.
 
 #### Classified Information
 
-In addition to the d6s in your dice pool, you always get to roll the
-*Insight die*, a 10-sided die. If the Insight die matches a d6 in your
-dice pool, you learn some classified information. Ask the GM a question
-and they’ll answer you honestly. Examples: 
+In addition to the Action dice, you always get to roll the *Insight
+die*, a 10-sided die. If the Insight die matches one or more Action
+dice, you learn some classified information. Ask the GM a question and
+they’ll answer you honestly. Examples: 
 
 > What are they really feeling? Who's behind this? How could I get them
 > to do X? What should I be on the lookout for? What's the best way to
@@ -354,7 +353,7 @@ count towards the number of successes, nor does it count for *Max Dice*.
 
 #### Interpreting Results
 
-Each d6 that rolls a 5 or 6 succeeds.
+Each Action die that rolls a 5 or 6 succeeds.
 
 <div class="colored">
 <div class="grid">
@@ -362,7 +361,7 @@ Each d6 that rolls a 5 or 6 succeeds.
 
 #### 0
 
-If none of your d6s succeed, it goes wrong. Explain what went wrong, and
+If you have no successes, it goes wrong. Explain what went wrong, and
 give your character a *Consequence*.
 
 </div>
@@ -393,8 +392,8 @@ If three or more succeed, the GM grants some extra effect.
 #### Helping 
 
 If you want to help someone else who's rolling, explain how and make a
-roll. If you succeed, give them an extra d6, but remember that they can
-never roll more than their *Max Dice*.
+roll. If you succeed, give them an extra Action die, but remember that
+they can never roll more than their *Max Dice*.
 
 ### GM: Run the Game
 
@@ -421,12 +420,12 @@ mission to spy on a drug deal between two rival gangs. Bruce says:
 
 This description clarifies that Catboy is using his style as a Sneaker
 and his motivation for Justice for this action. In addition, the
-description was vivid and exciting, so Bruce gets to roll 3 d6s (plus
-the Insight die). Right now, Catboy has one consequence, and so his Max
-Dice is 4. This means that Bruce gets to roll all 3 dice. He rolls  4,
-4, and 2 on the d6s, and a 5 on the Insight die. That means he failed in
-his action, and he also doesn't learn any classified information. Bruce
-describes the failure, and how it moves the action forward in the game:
+description was vivid and exciting, so Bruce gets to roll 3 Action dice.
+Catboy has only one consequence, and so his Max Dice is 4, which doesn't
+interfere in this case. Bruce rolls, getting 4, 4, and 2 on the Action
+dice, and a 5 on the Insight die. That means he failed in his action,
+and he also doesn't learn any classified information. Bruce describes
+the failure, and how it moves the action forward in the game:
 
 > "Just as I get close enough to hear the deal, I see Jonny Quinn reach
 > into his coat. While I'm focusing on Jonny, I ignore the dust on the
@@ -437,8 +436,7 @@ describes the failure, and how it moves the action forward in the game:
 > chance."
 
 Bruce takes the consequence "Self-doubts and second-guesses" and reduces
-his max dice pool size by one to three. Which is bad, since now all of
-the bad guys are coming after him.
+his Max Dice to 3.
 
 ---
 

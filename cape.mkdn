@@ -31,15 +31,13 @@ found on Github. Pull requests welcome!
 
 ### [The Complete PDF](cape_and_bureau_complete.pdf)
 
-The complete PDF is a three page PDF that contains
+The complete PDF is a two page PDF that contains
 
 1. The single sheet of rules
 2. Special bifold character sheets
-3. Some instructions on using the character sheets
 
-You'll probably want to print out one copy of the first page, 2-3 copies
-of the second page, and you probably won't want to print the third page
-at all.
+You'll probably want to print out one copy of the first page and 2-3
+copies of the second page.
 
 </div>
 <div class="unit one-of-two">

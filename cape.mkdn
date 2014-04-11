@@ -73,16 +73,15 @@ long-running campaign) are
 This character sheet is designed to help with that. There
 are two character sheets on a page, so first cut the page in half. Now
 each character sheet has some dotted lines. Fold on these dotted lines
-to get something that looks like this:
+to get something that looks kinda like this:
 
 ![A picture of the folded character sheet](images/charsheets_folded.jpg)
 
 Hooray! This acts kind of like a mini GM screen for all the players. It
 displays relevant information to the other players (like your name,
-emblem, and powers), but keeps personal information to yourself (like
-your number, motivation, and other notes). It also has a handy-dandy
-cheat sheet of rules on the back of the fold, so you can remember how
-many dice to roll and how to interpret them.
+emblem, and powers), but keeps personal information to yourself. It also
+has a handy-dandy cheat sheet of rules on the back of the fold, so you
+can remember how many dice to roll and how to interpret them.
 
 ---
 
@@ -413,14 +412,14 @@ description d6 on every roll. This isn't cheating, this is by design.
 ### Example
 
 Bruce is playing Catboy (Power: Gadgets, Style: Sneaker, Origin:
-Survivor, Motivation: Justice), who is trying to spy on a drug deal
-between two rival gangs. Bruce says:
+Survivor, Motivation: Justice), who has been sent by the Bureau on a
+mission to spy on a drug deal between two rival gangs. Bruce says:
 
 > "I try to stay up high in the rafters, sneaking about and staying in
 > the dark. Like a shadow, I glide silently from beam to beam, so
 > quickly that anyone glancing up would only see a glimmer of night. I
-> know that this information is of paramount importance if I'm going to
-> bring down the Quinn gang, so I stay extra careful."
+> know that this information is of paramount importance if the Bureau is
+> going to bring down the Quinn gang, so I stay extra careful."
 
 This description clarifies that Catboy is using his style as a Sneaker
 and his motivation for Justice for this action. In addition, the

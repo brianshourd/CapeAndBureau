@@ -327,15 +327,15 @@ not, depending on the story and the consequence.
 
 Whenever your character tries to do something and there is both a
 reasonable and interesting chance of failure, roll some dice. Describe
-your action and your goals in a cinematic and vivid way. 
+your action in a cinematic and vivid way.
 
 For each *Attribute* (Power, Style, Origin, Motivation), if your
 description explains some way that attribute helps to accomplish the
 action, you get to add a 6-sided *Action die* to your dice pool. In
 addition, if your description was exceptionally vivid, cinematic, or
-cool, you get to add another Action die to your dice pool.
+cool, add another Action die to the pool.
 
-You never roll more Action dice than than your *Max Dice* number.
+You never roll more Action dice than your *Max Dice* number.
 
 #### Classified Information
 
@@ -404,7 +404,7 @@ Each roll represents a large action or set of actions. Combats take only
 1-2 rolls per player. Use failures to push the action forward. The
 situation always changes after a roll, for good or ill. Encourage
 players to be vivid in their descriptions - they should get the
-description d6 on every roll. This isn't cheating, this is by design.
+description d6 on every roll. It's not cheating.
 
 ### Example
 

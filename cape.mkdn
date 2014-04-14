@@ -1,16 +1,18 @@
 THE WORLD IS IN PERIL. The Bureau of Civic Protection maintains an elite
-team of metahumans for just such an event. Can you save the world before
-it's too late?
+team of highly-trained metahumans for just such an event. All hope rests
+on this unit of overpowered federal goons in capes. Are they heroes,
+agents, or something else? 
 
 Cape and Bureau RPG is a minimalist (the rules fit on a single page)
 superhero role-playing game written by Brian Shourd
 ([brianshourd.com](http://brianshourd.com)), inspired by John Harper's
 [Lasers and
-Feelings](http://onesevendesign.com/lasers_and_feelings_rpg.pdf).
-Designed for 2-5 players, 1 game master (GM), a handful of dice (at
-least 5 six-sided and 1 10-sided), and little to no prep. The game can
-be played in 2-3 hours, including character creation. Special thanks to
-Graham Starfelt, Auden Reiter, and rednightmare for great ideas.
+Feelings](http://onesevendesign.com/lasers_and_feelings_rpg.pdf) and
+Fraser Ronald's [Nefertiti Overdrive](http://swordsedge.ca). Designed
+for 2-4 players, 1 game master (GM), a handful of dice (at least 5
+six-sided and 1 10-sided), and little to no prep. The game can be played
+in 2-3 hours, including character creation. Special thanks to Graham
+Starfelt, Auden Reiter, and rednightmare for great ideas.
 
 *Never played an RPG before?* [Here are some things you may want to
 know](#what-is-an-rpg).
@@ -51,9 +53,34 @@ This is just the rules, the first page of the complete PDF above.
 This is just the special bifold character sheets, page 2 of the complete
 PDF above.
 
-### [View the rules online](#full-rules)
+</div>
+</div>
+</div>
+
+<div class="colored">
+
+## Online Rules
+
+<div class="grid">
+<div class="unit one-of-three">
+
+### [What is an RPG?](#what-is-an-rpg)
+
+Read this if you've never played an RPG before
+
+</div>
+<div class="unit one-of-three">
+
+### [The Rules](#full-rules)
 
 Online viewing (or just scroll down). Works great on mobile devices.
+
+</div>
+<div class="unit one-of-three">
+
+### [Play Examples](#examples)
+
+Examples of play, to clarify the rules
 
 </div>
 </div>
@@ -147,19 +174,19 @@ fun.
 
 ## Setup
 
-### Players: Create Your Superheroes
+### Players: Create Your Characters
 
 For each of the following *Attributes*, pick one from the list (or make
 one up) and mark it on your character sheet. Under *Max Dice*, write 5.
-Come up with a *Name* and *Backstory*. Lastly, draw an *Emblem* for your
-character on your sheet.
+Come up with a *Name* and *Backstory*, and draw an *Emblem* for your
+character. Pro tip: It can be really fun to choose randomly.
 
 <div class="colored">
 <div class="grid">
 <div class="unit one-of-four">
 #### Power
 
-* Flight
+* Energy
 * Magic
 * Speed
 * Psionics
@@ -173,13 +200,13 @@ character on your sheet.
 #### Style
 
 * Controller
+* Berserker
 * Defender
 * Sneaker
 * Brawler
 * Thinker
 * Blaster
 * Leader
-* Healer
 
 </div>
 <div class="unit one-of-four">
@@ -211,43 +238,11 @@ character on your sheet.
 </div> <!-- grid -->
 </div> <!-- colored -->
 
-<!--
-### Players: Create the Team
+### GM: Create an Adventure
 
-Once everyone has created their character, collabortively create your
-superhero team. Choose a *name*, *bane*, and *boon*.
-
-<div class="colored">
-<div class="grid">
-<div class="unit one-of-two">
-
-#### Bane
-
-* Outlawed 
-* Infighting
-* Underfunded 
-* Bad Reputation 
-
-</div>
-<div class="unit one-of-two">
-
-#### Boon
-
-* Bureau Favorites
-* Good Press
-* Well Funded 
-* Tight-knit 
-
-</div>
-</div> 
-</div>
--->
-
-### GM: Create a Superhero Adventure
-
-Roll randomly or choose from the options below. Come up with an opening
-scene and mission briefing to throw at the players. Don't tell them
-everything, just enough to get them started.
+Roll randomly or choose from the options below. Invent an opening scene
+and mission briefing to throw at the players. Don't reveal everything,
+just enough to get started.
 
 <div class="colored">
 <div class="grid">
@@ -306,43 +301,43 @@ everything, just enough to get them started.
 
 ### Consequences
 
-A *Consequence* is a thing that happens to your character that makes
-life harder. They could be running out of willpower, bleeding, tired, or
-losing their sanity.
+A *Consequence* is some kind of stress that happens to your character
+and makes life harder. Examples: running out of willpower, bleeding,
+tired, losing their sanity.
 
 When your character gets a consequence, mark a consequence box on your
-character sheet, and write down a short description. *Your Max Dice
-number is reduced by one for each consequence you have*. 
+character sheet, and write down a short description. *Max Dice is
+reduced by one for each consequence you take*. 
 
 Your character can only take five consequences before they are out of
-action. They might be dead, unconscious, or they may simply have given
-up. If every character reaches five consequences, the team is helpless,
-and they fail whatever their current objective was.
+action.  If every character reaches five consequences, the team is
+helpless, and they fail whatever their current objective was.
 
 If it makes sense, characters can sometimes remove consequences. This
-may require a roll (if e.g. someone has the Healer style), or it may
-not, depending on the story and the consequence.
+may or may not require a roll depending on the story and the
+consequence.
 
 ### Rolling the Dice
 
 Whenever your character tries to do something and there is both a
-reasonable and interesting chance of failure, roll some dice. Describe
-your action in a cinematic and vivid way.
+reasonable and interesting chance of failure, the GM will ask for a
+roll.
 
-For each *Attribute* (Power, Style, Origin, Motivation), if your
-description explains some way that attribute helps to accomplish the
-action, you get to add a 6-sided *Action die* to your dice pool. In
-addition, if your description was exceptionally vivid, cinematic, or
-cool, add another Action die to the pool.
+Describe your action in a vivid, cinematic manner. For each *Attribute*
+(Power, Style, Origin, Motivation), if your description explains how the
+attribute helps to accomplish the action, you get to add a 6-sided
+*Action die* to your dice pool. In addition, if your description was
+exceptionally awe-inspiring, add another Action die to the pool.
 
 You never roll more Action dice than your *Max Dice* number.
 
 #### Classified Information
 
-In addition to the Action dice, you always get to roll the *Insight
-die*, a 10-sided die. If the Insight die matches one or more Action
-dice, you learn some classified information. Ask the GM a question and
-they’ll answer you honestly. Examples: 
+In addition to the Action dice, you always get to roll the 10-sided
+*Insight die*. If the Insight die matches one or more Action dice, you
+learn some classified information. Ask the GM a question and they’ll
+answer you honestly. This may represent an insight you just had, or a
+transmission from HQ, etc. Examples: 
 
 > What are they really feeling? Who's behind this? How could I get them
 > to do X? What should I be on the lookout for? What's the best way to
@@ -361,8 +356,8 @@ Each Action die that rolls a 5 or 6 succeeds.
 
 #### 0
 
-If you have no successes, it goes wrong. Explain what went wrong, and
-give your character a *Consequence*.
+If no dice succeed, badness ensues. Explain what went wrong and give
+your character a *Consequence*.
 
 </div>
 <div class="unit one-of-four">
@@ -376,7 +371,7 @@ If one succeeds, the GM inflicts a complication or cost.
 
 #### 2
 
-If two succeed, you do it well. Good job!
+If two succeed, everything goes exactly as you wanted.
 
 </div>
 <div class="unit one-of-four">
@@ -401,12 +396,14 @@ Play to find out how the team defeats the threat. Uncover the truth as
 the game continues - keep the players guessing. 
 
 Each roll represents a large action or set of actions. Combats take only
-1-2 rolls per player. Use failures to push the action forward. The
-situation always changes after a roll, for good or ill. Encourage
-players to be vivid in their descriptions - they should get the
-description d6 on every roll. It's not cheating.
+1-2 rolls per player. A roll always moves the action forward, changing
+the situation in a big way - even when the roll fails. Encourage players
+to be vivid in their descriptions. If they are doing it right, they
+should get the description die on every roll.
 
-### Example
+---
+
+# Examples
 
 Bruce is playing Catboy (Power: Gadgets, Style: Sneaker, Origin:
 Survivor, Motivation: Justice), who has been sent by the Bureau on a

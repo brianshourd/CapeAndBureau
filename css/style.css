@@ -112,9 +112,11 @@ hr {
 .unit > h4 {
     font-weight: bold;
 }
+/*
 em {
     font-weight: bold;
 }
+*/
 .container {
 	max-width: 960px;
     background-color: white;

@@ -1,12 +1,16 @@
-THE WORLD IS IN PERIL. The Bureau of Civic Protection maintains an elite
-team of highly-trained metahumans for just such an event. All hope rests
-on this unit of overpowered federal goons in capes. Are they heroes,
-agents, or something else? 
+THE COUNTRY IS IN PERIL. At least, the Bureau of Civic Protection
+insists that it is, and they are sending out their biggest guns: an
+elite team of highly-trained metahumans. All power now rests on this
+unit of overpowered federal goons in capes. Are they heroes, agents, or
+something else? 
 
-Cape and Bureau RPG is a minimalist (the rules fit on a single page)
-superhero role-playing game written by Brian Shourd
-([brianshourd.com](http://brianshourd.com)), inspired by John Harper's
-[Lasers and
+Cape & Bureau RPG is a one-page superhero role-playing game about
+government-sponsered heroes trying to help humanity while being
+manipulated by the agency they work for. If you like pulpy, four-color
+action and secret conspiracies, this is the game for you.
+
+Written by Brian Shourd ([brianshourd.com](http://brianshourd.com)),
+inspired by John Harper's [Lasers and
 Feelings](http://onesevendesign.com/lasers_and_feelings_rpg.pdf) and
 Fraser Ronald's [Nefertiti Overdrive](http://swordsedge.ca). Designed
 for 2-4 players, 1 game master (GM), a handful of dice (at least 5
@@ -28,18 +32,24 @@ found on Github. Pull requests welcome!
 
 ## Download the Rules
 
+*Note:* Downloadable rules are currently being updated, and will be
+available soon. In the mean time, check out the [rules
+online](#full-rules).
+
+
+<!--
 <div class="grid">
 <div class="unit one-of-two">
 
 ### [The Complete PDF](cape_and_bureau_complete.pdf)
 
-The complete PDF is a two page PDF that contains
+The complete PDF is a three page PDF that contains
 
-1. The single sheet of rules
+1. The rules
 2. Special bifold character sheets
 
-You'll probably want to print out one copy of the first page and 2-3
-copies of the second page.
+You'll probably want to print out one copy of the first two pages and
+2-3 copies of the third page.
 
 </div>
 <div class="unit one-of-two">
@@ -50,11 +60,12 @@ This is just the rules, the first page of the complete PDF above.
 
 ### [Just the character sheets](cape_and_bureau_charsheet.pdf)
 
-This is just the special bifold character sheets, page 2 of the complete
+This is just the special bifold character sheets, page 3 of the complete
 PDF above.
 
 </div>
 </div>
+-->
 </div>
 
 <div class="colored">
@@ -172,14 +183,19 @@ fun.
 
 # Full Rules
 
-## Setup
+The world is in peril! You and your metahuman teammates are the single
+greatest weapon that we, the Bureau of Civic Defense, can bring to bear
+on this threat. For the sake of your country, your loved ones, and for
+freedom, give this fight your all - or it may be our last. Good luck,
+Hero!
 
-### Players: Create Your Characters
+## Players
 
-For each of the following *Attributes*, pick one from the list (or make
-one up) and mark it on your character sheet. Under *Max Dice*, write 5.
-Come up with a *Name* and *Backstory*, and draw an *Emblem* for your
-character. Pro tip: It can be really fun to choose randomly.
+### Create Your Heroes
+
+For each of the following *Attributes*, pick one from the list and mark
+it on your character sheet. Under *Drive*, write 5. Invent a *Name* and
+*Backstory*, and draw an *Emblem* for your hero. 
 
 <div class="colored">
 <div class="grid">
@@ -225,7 +241,7 @@ character. Pro tip: It can be really fun to choose randomly.
 <div class="unit one-of-four">
 #### Motivation
 
-* Create your own or
+* Patriotism
 * Freedom
 * Revenge
 * Religion
@@ -238,17 +254,132 @@ character. Pro tip: It can be really fun to choose randomly.
 </div> <!-- grid -->
 </div> <!-- colored -->
 
-### GM: Create an Adventure
+### Action Dice
 
-Roll randomly or choose from the options below. Invent an opening scene
-and mission briefing to throw at the players. Don't reveal everything,
-just enough to get started.
+Heroes are powerful forces, but nothing is written in stone. Whenever
+your hero tries to do something and there is both a reasonable and
+interesting chance of failure, the GM will ask for a roll.
+
+Give a vivid, cinematic description of your action (around 2-4
+sentences). For each *Attribute* (Power, Style, Origin, Motivation), if
+your description explains how the attribute helps to accomplish the
+action, add a 6-sided *Action die* to your dice pool. If your
+description was exceptionally awe-inspiring (as it should be, Hero), add
+another *Action die* to the pool. The GM has final say on how many dice
+to roll.
+
+**Caveat**: Never roll more *Action dice* than your *Drive*.
+
+### Interpreting Results
+
+Each *Action die* that rolls a 5 or 6 succeeds. You and the GM describe
+together what happens.
+
+<div class="colored">
+<div class="grid">
+<div class="unit one-of-four">
+
+#### 0
+
+If no dice succeed, badness ensues. Decrease your *Drive* by 1.
+
+</div>
+<div class="unit one-of-four">
+
+#### 1
+
+If one succeeds, your action succeeds but at some cost.
+
+</div>
+<div class="unit one-of-four">
+
+#### 2
+
+If two succeed, everything goes exactly as you wanted.
+
+</div>
+<div class="unit one-of-four">
+
+#### 3+
+
+If three or more succeed, you gain some extra effect.
+
+</div>
+</div> <!-- grid -->
+</div> <!-- colored -->
+
+### Intel Die
+
+You aren't alone out there, Hero. Besides the *Action dice*, you always
+get to roll the 10-sided *Intel die*. If the *Intel die* matches one or
+more *Action dice*, you learn some new information, courtesy of the
+Bureau of Civic Defense. Ask the GM a question, and they will answer on
+behalf of the Bureau. Examples: 
+
+> What are they really feeling? Who's behind this? How could I get them
+> to do X? What should I be on the lookout for? What's the best way to
+> do Y?  What's really going on here?
+
+The *Intel die* does not count towards the number of successes, nor for
+*Drive*.
+
+### Drive
+
+Even heroes get tired. Your *Drive* is a number that abstractly
+represents how effective your hero currently is. You never roll more
+*Action dice* than your *Drive*.
+
+If your *Drive* reaches 0, you are out of action, and you can't make any
+more rolls. If every team member has 0 *Drive*, they fail their current
+objective.
+
+The only way to repair your *Drive* to full (5) is to take a rest. This
+entails a story-appropriate break from action, during which time the GM
+describes how the situation worsens while you rest. Resting is a bad
+thing, but not as bad as running out of *Drive*.
+
+### Working Together
+
+Sometimes two capes are better than one. If multiple heroes are working
+together to accomplish a single task, they all describe their actions.
+If the GM rules that this is an effective way to team up, they all make
+rolls according to their descriptions. Any hero who rolls 0 successes
+still decreases their *Drive* by 1. However, all of the successes of all
+participating heroes are combined.
+
+### Play Tips
+
+Have fun. Your character is a superhero, and should be doing
+over-the-top crazy action all the time. Bust some faces, blow up a
+building, and follow your instincts. It's for your country, Hero.
+
+## For the GM Only
+
+This section is for the GM of the party, and not for the players. If you
+are a player, read no further. If you are the GM, this section will help
+you to create the story that will unfold as the game progresses.
+
+Seriously, last chance - don't read on. Is it just us now, GM? Good.
+
+*Everything the heroes believe is a lie.* The Bureau has it's own
+agenda. Sure, Bureau NPCs will try to convince the heroes that they are
+serving their country, and that it is all for the common good, but in
+reality, all the player characters are overpowered federal goons in
+capes. Manipulate them.
+
+### Create the Threat
+
+Roll randomly or choose from the options below to find the *Threat* and
+the *Agenda*. Invent an opening scene and mission briefing to throw at the
+players. Reveal as much as you feel the Bureau would give out to the PCs
+in order to accomplish their *Agenda* (below). Bureau intelligence
+officers believe that...
 
 <div class="colored">
 <div class="grid">
 <div class="unit one-of-two">
 
-#### A threat...
+#### a threat...
 
 1. Electrometus: Mage of Magnetism
 2. The Ancients of Um'tach
@@ -274,8 +405,8 @@ just enough to get started.
 
 #### the...
 
-1. World's Satellites
-2. Doomsday Machine
+1. Doomsday Machine
+2. Nation's Satellites
 3. Alien Artifact
 4. Ancient Ruin
 5. Bureau HQ
@@ -287,153 +418,278 @@ just enough to get started.
 #### which will...
 
 1. Start a war
-2. Reverse time
-3. Make them rich
-4. Enslave humanity
-5. Destroy the world
-6. Destroy the Bureau
+2. Ruin the country
+3. Enslave humanity
+4. Destroy the Bureau
+5. Corrupt the children
+6. Destroy the economy
 
 </div>
 </div> <!-- grid -->
 </div> <!-- colored -->
 
-## Playing the Game
+### Create a Secret Agenda
 
-### Consequences
-
-A *Consequence* is some kind of stress that happens to your character
-and makes life harder. Examples: running out of willpower, bleeding,
-tired, losing their sanity.
-
-When your character gets a consequence, mark a consequence box on your
-character sheet, and write down a short description. *Max Dice is
-reduced by one for each consequence you take*. 
-
-Your character can only take five consequences before they are out of
-action.  If every character reaches five consequences, the team is
-helpless, and they fail whatever their current objective was.
-
-If it makes sense, characters can sometimes remove consequences. This
-may or may not require a roll depending on the story and the
-consequence.
-
-### Rolling the Dice
-
-Whenever your character tries to do something and there is both a
-reasonable and interesting chance of failure, the GM will ask for a
-roll.
-
-Describe your action in a vivid, cinematic manner. For each *Attribute*
-(Power, Style, Origin, Motivation), if your description explains how the
-attribute helps to accomplish the action, you get to add a 6-sided
-*Action die* to your dice pool. In addition, if your description was
-exceptionally awe-inspiring, add another Action die to the pool.
-
-You never roll more Action dice than your *Max Dice* number.
-
-#### Classified Information
-
-In addition to the Action dice, you always get to roll the 10-sided
-*Insight die*. If the Insight die matches one or more Action dice, you
-learn some classified information. Ask the GM a question and they’ll
-answer you honestly. This may represent an insight you just had, or a
-transmission from HQ, etc. Examples: 
-
-> What are they really feeling? Who's behind this? How could I get them
-> to do X? What should I be on the lookout for? What's the best way to
-> do Y?  What's really going on here?
-
-This is the only thing that the Insight die is used for - it does not
-count towards the number of successes, nor does it count for *Max Dice*.
-
-#### Interpreting Results
-
-Each Action die that rolls a 5 or 6 succeeds.
+In addition to the *Threat* above, the Bureau has a secret *Agenda*. The
+Bureau...
 
 <div class="colored">
 <div class="grid">
-<div class="unit one-of-four">
+<div class="unit one-of-two">
 
-#### 0
+#### wants to...
 
-If no dice succeed, badness ensues. Explain what went wrong and give
-your character a *Consequence*.
-
-</div>
-<div class="unit one-of-four">
-
-#### 1
-
-If one succeeds, the GM inflicts a complication or cost.
+1. Stop the *Threat*
+2. Blame someone else
+3. Cover up the *Threat*
+4. Create news stories
+5. Get the heroes killed
+6. Let the *Threat* succeed
 
 </div>
-<div class="unit one-of-four">
+<div class="unit one-of-two">
 
-#### 2
+#### in order to...
 
-If two succeed, everything goes exactly as you wanted.
-
-</div>
-<div class="unit one-of-four">
-
-#### 3+
-
-If three or more succeed, the GM grants some extra effect.
+1. Undermine the government
+2. Deal with a larger threat
+3. Protect their secrets
+4. Protect the country
+5. Make some money
+6. Gain more power
 
 </div>
 </div> <!-- grid -->
 </div> <!-- colored -->
 
-#### Helping 
+### Run the Game
 
-If you want to help someone else who's rolling, explain how and make a
-roll. If you succeed, give them an extra Action die, but remember that
-they can never roll more than their *Max Dice*.
+Very important: the game is not *the GM* vs *the players*. You aren't
+trying to beat them. It is actually *the Bureau* manipulating *the
+heroes*. Give the players an interesting challenge with subterfuge and
+twists. Secret agendas are boring unless they are eventually revealed,
+so you should definitely include hints and tips to the players about the
+secret agenda, and let them uncover it at some point in the game.
 
-### GM: Run the Game
+Here is one way to structure the game that I find works well. It
+consists of three acts, about 40 minutes each.
 
-Play to find out how the team defeats the threat. Uncover the truth as
-the game continues - keep the players guessing. 
+* **Act 1**: Characters are given a very direct combat mission, and they
+  proceed to kick ass at it. They are pulp action heroes. It ends with a
+twist revealing that there is more to the threat than they thought, and
+hinting at a secret agenda.
+* **Act 2**: Characters have lost a bit of Drive, but are still quite
+  able.  There's less fighting and more mystery and secrecy. Set up some
+secrets, and let the players role-play with NPCs and the environment to
+figure them out. Act 2 ends when the characters realize the Bureau's
+true agenda.
+* **Act 3**: Everything is out in the open. Characters may need to make
+  a hard decision about their loyalty to the Bureau and their loyalty to
+themselves. Ends with a showdown.
 
-Each roll represents a large action or set of actions. Combats take only
-1-2 rolls per player. A roll always moves the action forward, changing
-the situation in a big way - even when the roll fails. Encourage players
-to be vivid in their descriptions. If they are doing it right, they
-should get the description die on every roll.
+Each act should have a couple of scenes in it. The first act is full of
+combat, the second act is a lull in the action while the PCs discover
+secrets, and the third is more combat. As a guideline, shoot for 3-4
+rolls per player per act.
+
+Each roll represents a large action or set of actions. Combats may take
+only 1-2 rolls per player. A roll always moves the action forward,
+changing the situation in a big way - even when the roll fails.
+Encourage players to be vivid in their descriptions. If they're doing it
+right, they should get the description die every time.
+
+If you follow these guidelines, the mechanics are balanced so that the
+game begins with the heroes being basically unstoppable, and ends with
+them at a much lower level of power, and contemplating a rest. This
+matches the tone of the game, which starts out as "Heroes on a Mission
+for Peace and Justice" and ends with "Secret Agendas and Corrupt
+Government Agencies".
+
+Always use the Intel dice to manipulate the heroes. Give them
+information that will help achieve the Bureau's agenda. If you want to
+clue them into the fact that there is an agenda, give them information
+that blatantly disagrees with what they are seeing.
 
 ---
 
 # Examples
 
-Bruce is playing Catboy (Power: Gadgets, Style: Sneaker, Origin:
-Survivor, Motivation: Justice), who has been sent by the Bureau on a
-mission to spy on a drug deal between two rival gangs. Bruce says:
+In these examples, we have two players: Bruce and Clark. Bruce is
+playing Catboy (Power: Gadgets, Style: Sneaker, Origin: Survivor,
+Motivation: Justice) and Clark is playing Steelheart (Power: Strength,
+Style: Brawler, Origin: Alien, Motivation: Freedom).
 
-> "I try to stay up high in the rafters, sneaking about and staying in
-> the dark. Like a shadow, I glide silently from beam to beam, so
-> quickly that anyone glancing up would only see a glimmer of night. I
-> know that this information is of paramount importance if the Bureau is
-> going to bring down the Quinn gang, so I stay extra careful."
+Stella is the GM, and has rolled up the following Scenario:
 
-This description clarifies that Catboy is using his style as a Sneaker
-and his motivation for Justice for this action. In addition, the
-description was vivid and exciting, so Bruce gets to roll 3 Action dice.
-Catboy has only one consequence, and so his Max Dice is 4, which doesn't
-interfere in this case. Bruce rolls, getting 4, 4, and 2 on the Action
-dice, and a 5 on the Insight die. That means he failed in his action,
-and he also doesn't learn any classified information. Bruce describes
-the failure, and how it moves the action forward in the game:
+> The Bureau believes that Electrometus: Mage of Magnetism wants to
+> occupy an alien artifact in order to ruin the economy. Their secret
+> agenda is that they want to cover up the threat in order to protect
+> the country.
 
-> "Just as I get close enough to hear the deal, I see Jonny Quinn reach
-> into his coat. While I'm focusing on Jonny, I ignore the dust on the
-> rafter, and some falls down onto the other men. One of them looks up.
-> He shouts to his men that the Cat is here, and they start firing up
-> into the rafters. I drop down behind the van, to keep out of their
-> line of fire, but I can't help kicking myself for ruining this
-> chance."
+Stella interprets this to mean that Electrometus has heard of an alien
+artifact called The Hand of Midas which turns any object into gold. He
+intends to find the Hand and use it to create so much gold that it will
+undermine the country's economy, thus rendering the government powerless
+to stop him in his quest to rule. The Bureau wants to keep this
+completely hushed up, so that the country doesn't panic. It would do no
+good for anyone else to know of such an artifact and the awesome power
+it commands.
 
-Bruce takes the consequence "Self-doubts and second-guesses" and reduces
-his Max Dice to 3.
+Stella also decides that the Bureau knew about this item and had hidden
+it inside a secret bunker located underneath a mountain. One of their
+undercover agents discovered that Electrometus plans an assault on the
+mountain (Mount Thistledome), using his army of magical robot assassins
+to take down the the guards stationed there and some kind of device to
+steal the Hand. However, since they want to keep it secret, he doesn't
+tell the PCs what the item is, only that "it is vital to this great
+nation that the artifact be kept secret below the surface of Mount
+Thistledome".
+
+Stella decides that the Bureau didn't get much warning on this attack,
+and as the Bureau helicopter flies over Mount Thistledome to drop off
+the PCs, they see a gigantic hovercraft shimmer out of cloaking mode
+right over the peak of the mountain, and waves of robots (dozens) come
+streaming out wielding laser pistols.
+
+Bruce says:
+
+> Catboy doesn't hesitate. As soon as he sees the enemy robots, he leaps
+> from the helicopter and dives down toward a group of them. At the last
+> second, he activates his glider gadget, pulling up to silently fall on
+> the the group before they even know he is there, and using his
+> portable EMP Taser to silently shut down the robots as quickly as he
+> can.
+
+This description is using Catboy's Power (Gadgets) and his Style
+(Sneaker), so Bruce gets 2 Action dice. Moreover, his description was
+exciting and vivid, so he gets another. He rolls his three Action dice
+and the Information die to get: [5, 1, 3] and 9 on the Info die. That's
+one success and no classified information. Bruce describes the outcome:
+
+> Several of the metal men fall to the ground, inoperative, but before
+> the last one goes down it sees him and raises an electronic cry for
+> help. Catboy is now stranded among far more robots than he can safely
+> handle.
+
+Stella has nothing to add, and asks Clark what his character will do.
+Clark says:
+
+> While Catboy was gliding down, Steelheart puts on a parachute. When he
+> gets to the ground, he sees that Catboy is in danger and starts
+> destroying robots.
+
+Stella thinks that this is a fine action, but it could be described in a
+more exciting manner, and prods Clark for more description.
+
+> Letting out a cry of anger as he sees Catboy in imminent danger,
+> Steelheart's longing to protect the freedom of all men drives him to
+> unleash his alien muscles upon the hapless robots. He leaps from unit
+> to unit, ripping them apart with his bare hands and using the pieces
+> torn from one as makeshift weapons to clobber another.
+
+This gets 4 Action dice, for Steelheart's Power (Strength), Style
+(Brawler), Motivation (Freedom), and for the description. He rolls [6,
+6, 3, 3] and 1. That's 2 successes and no information, so Steelheart
+successfully rescues his friend and fellow from the horde of robots.
+
+Stella describes that the majority of the robots outside are now
+incapacitated, but that the players see a few going into the mountain
+through a secret door. She also says that the hovercraft seems to be
+turning to train some very large turrets on the heroes.
+
+Clark says:
+
+> Steelheart uses his powerful legs to leap at the hovercraft, holding
+> the wreckage of several robots in his arms. As he lands, he crams the
+> robotic pieces into the turret, attempting to stuff the gun so that it
+> backfires and destroys itself.
+
+Bruce chimes in:
+
+> Catboy sees what Steelheart is trying to do, and so attempts to
+> distract whomever is controlling the hovercraft by darting towards the
+> door, readying his survival instincts to dodge any projectile that
+> might be fired.
+
+Since Bruce is trying to help Clark on his roll, they both roll all of
+their dice together. Bruce gets 3 Action dice, for his Style (Sneaker),
+Origin (Survivor), and description. He rolls [6, 4, 5] and 8.
+
+Clark gets 3 action dice for Power, Style, and description. He rolls [3,
+3, 2] and 2, which means that he must decrease his Drive to 4. However,
+he learns some classified information, so it isn't all bad. 
+
+In addition, we determine results by adding together all of the action
+dice, [6, 4, 5, 3, 3, 2], which is two successes. Thus the heroes
+succeed in their action by working together.
+
+First, Clark describes what happens:
+
+> The powerful force of the laser cannon begins to build up and a high
+> pitched whine becomes audible as the turret attempts to clear the
+> obstruction. When it detonates, it sends robot shrapnel spraying
+> across the grounds, even as the beam of energy vaporises anything it
+> touches. The hovercraft is no more.
+
+Now Clark gets to ask Stella a question. He asks "What kind of robots
+are these?" and Stella responds as the Bureau would:
+
+> These robots, classified AKL-9884J, are the product of a team of
+> researchers currently operating at the robotics facilities in Jiou
+> Kun. Originally built by Dr. Hulin Chao to serve as semi-intelligent
+> factory overseers, they were put out of commission 2 years ago due to
+> some kind of defect. They appear to have been retrofitted with
+> weaponry and redeployed by unknown forces as a kind of strike team.
+> Their very existence is top secret. Under no circumstances are you to
+> attempt to communicate with the robots, and all units should be
+> deactivated and disposed of.
+
+Stella, having made this up on the spot, also decides that Dr. Chao was
+not involved in the retrofitting, but that as part of the whole "we want
+to keep this quiet" thing, the Bureau now has Dr. Chao in a secret
+prison until they know how much information he knows. She tells none of
+this to the players, but makes a note about it in case it comes up in
+the future.
+
+Clark and Bruce declare that their characters attempt to go through the
+door, and Stella describes what they see.
+
+> Beyond the door, you enter the control room of the facility. It is a
+> small room with two chairs at consoles. On the consoles are video
+> feeds from what appear to be other parts of the facility, as on the
+> video feeds you see more of the robots marching down the halls and
+> killing people with their laser pistols.
+>
+> Five of the video feeds - the ones directly in the center - appear to
+> be different views of the same room. It is made of solid gold, and in
+> the center of the room on a pedestal about 5 feet tall stands a
+> figurine in the shape of a human hand. It's approximately life-sized.
+> Also in the room is a man in Bureau uniform, methodically tracing the
+> room as he lines the walls with plastic explosives.
+
+The players manage to reach the room, spending a couple more rolls to
+defeat the robots in the halls, and when they finally come to the golden
+room and open the door, Stella says.
+
+> The man in Bureau uniform, the one you saw before on the monitor,
+> appears to be done laying the explosives. As he turns, one of the
+> killer robots comes charging into the room, stumbling as it crosses
+> the threshhold, and makes a grab for the hand-shaped artifact. As soon
+> as the two touch, the robot turns to solid gold and falls to the
+> floor, no longer operating. The man turns to you and asks "Did you
+> destroy all of them? There are no more robots left?". 
+
+Clark and Bruce answer that yes, they did destroy them all.
+
+> "Good," says the man, "then we have everything wrapped up." He gets a
+> very odd look on his face - a sort of sneer - and he begins to fade.
+> You realize that this man is only a hologram as the door begins to
+> slam shut behind you and you notice the timer on the explosives is set
+> to detonate in 3 seconds. What do you do?
+
+This is the end of Act 1 - the twist. What could happen next? Where is
+Electrometus? Who was the man in the room, and what was the golden hand?
+These are all questions for the players to find answers to in Act 2.
 
 ---
 
